@@ -347,49 +347,25 @@ Return ONLY valid JSON — no markdown, no backticks, no preamble:
 
 Fit criteria: High = clear offer, expert/info business, obvious funnel/conversion gaps vs KB frameworks. Medium = potential fit but unclear offer or niche. Low = wrong niche, no digital offer, or already well-systemised.`;
 
-    // Route through Apify proxy to avoid CORS — runs a tiny actor that calls Claude
-    const proxyPayload = {
-      model: 'claude-sonnet-4-20250514',
-      max_tokens: 2000,
-      system: systemPrompt,
-      messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
-    };
-
-    const cr = await fetch(
-      `https://api.apify.com/v2/acts/apify~claude-ai/runs?token=${apifyKey}&waitForFinish=120`,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          anthropicApiKey: claudeKey,
-          modelSettings: proxyPayload
-        })
-      }
-    ).then(async proxyRes => {
-      // If the Apify actor isn't available, fall back to direct API call via cors-anywhere or similar
-      if (!proxyRes.ok) {
-        // Direct call as fallback — will work if user has CORS extension or runs locally
-        return fetch('https://api.anthropic.com/v1/messages', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-            'x-api-key': claudeKey,
-            'anthropic-version': '2023-06-01',
-            'anthropic-dangerous-direct-browser-access': 'true'
-          },
-          body: JSON.stringify(proxyPayload)
-        });
-      }
-      // Apify actor succeeded — get the output
-      const runData = await proxyRes.json();
-      const datasetId = runData.data?.defaultDatasetId;
-      if (datasetId) {
-        const items = await (await fetch(`https://api.apify.com/v2/datasets/${datasetId}/items?token=${apifyKey}`)).json();
-        // Wrap in a format matching Anthropic's response
-        return { ok: true, json: async () => items[0] };
-      }
-      throw new Error('Claude proxy returned no data');
+    const cr = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': claudeKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-direct-browser-access': 'true'
+      },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 2000,
+        system: systemPrompt,
+        messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
+      })
     });
+    if (!cr.ok) {
+      const errData = await cr.json().catch(() => ({}));
+      throw new Error(errData.error?.message || `Claude API error ${cr.status}`);
+    }
 
     const cd = await cr.json();
     const raw = (cd.content?.[0]?.text || '').replace(/```json|```/g, '').trim();
