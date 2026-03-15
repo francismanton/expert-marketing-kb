@@ -277,16 +277,21 @@ async function analyse() {
     const { combined: kbContent, loaded } = await fetchKnowledgeBases();
 
     // Step 2: crawl prospect site
-    setProgress('Starting funnel crawl...');
-    const runRes = await fetch(
-      `https://api.apify.com/v2/acts/apify~website-content-crawler/runs?token=${apifyKey}`,
-      {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ startUrls: [{ url }], maxCrawlPages: 15, maxCrawlDepth: 3, crawlerType: 'cheerio', initialConcurrency: 3 })
-      }
-    );
-    if (!runRes.ok) { const e = await runRes.json(); throw new Error(e.error?.message || `Apify error ${runRes.status}`); }
+    setProgress('Step 2: Starting funnel crawl...');
+    let runRes;
+    try {
+      runRes = await fetch(
+        `https://api.apify.com/v2/acts/apify~website-content-crawler/runs?token=${apifyKey}`,
+        {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ startUrls: [{ url }], maxCrawlPages: 15, maxCrawlDepth: 3, crawlerType: 'cheerio', initialConcurrency: 3 })
+        }
+      );
+    } catch(fetchErr) {
+      throw new Error(`STEP 2 FAILED (crawl start): ${fetchErr.message}`);
+    }
+    if (!runRes.ok) { const e = await runRes.json(); throw new Error(`STEP 2 ERROR: ${e.error?.message || `Apify error ${runRes.status}`}`); }
     const runId = (await runRes.json()).data.id;
 
     let scraped = null;
@@ -347,8 +352,11 @@ Return ONLY valid JSON — no markdown, no backticks, no preamble:
 
 Fit criteria: High = clear offer, expert/info business, obvious funnel/conversion gaps vs KB frameworks. Medium = potential fit but unclear offer or niche. Low = wrong niche, no digital offer, or already well-systemised.`;
 
-    // Direct Claude API call with browser access header
-    const cr = await fetch('https://api.anthropic.com/v1/messages', {
+    // Step 3: Claude API call
+    setProgress('Step 3: Analysing with Claude...');
+    let cr;
+    try {
+      cr = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -363,6 +371,9 @@ Fit criteria: High = clear offer, expert/info business, obvious funnel/conversio
         messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
       })
     });
+    } catch(fetchErr) {
+      throw new Error(`STEP 3 FAILED (Claude API network error): ${fetchErr.message}`);
+    }
 
     if (!cr.ok) {
       const errText = await cr.text().catch(() => '');
