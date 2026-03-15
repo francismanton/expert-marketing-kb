@@ -85,9 +85,16 @@
       <input type="text" id="apifyKey" placeholder="apify_api_...">
     </div>
     <div class="field-block">
+      <div class="label">Claude API Key</div>
+      <input type="text" id="claudeKey" placeholder="sk-ant-...">
+    </div>
+  </div>
+  <div class="field-row two">
+    <div class="field-block">
       <div class="label">GHL Private Key <span style="font-weight:400;text-transform:none">(optional)</span></div>
       <input type="text" id="ghlKey" placeholder="For auto-create opportunity">
     </div>
+    <div class="field-block"></div>
   </div>
   <button class="btn-primary" id="analyseBtn" onclick="analyse()">Analyse Prospect</button>
   <div class="progress hidden" id="progress">
@@ -257,7 +264,8 @@ function populateReport(r) {
 async function analyse() {
   const url = document.getElementById('url').value.trim();
   const apifyKey = document.getElementById('apifyKey').value.trim();
-  if (!url || !apifyKey) { showError('URL and Apify API key are required.'); return; }
+  const claudeKey = document.getElementById('claudeKey').value.trim();
+  if (!url || !apifyKey || !claudeKey) { showError('URL, Apify API key, and Claude API key are all required.'); return; }
 
   document.getElementById('analyseBtn').disabled = true;
   document.getElementById('errorBox').classList.add('hidden');
@@ -339,15 +347,48 @@ Return ONLY valid JSON — no markdown, no backticks, no preamble:
 
 Fit criteria: High = clear offer, expert/info business, obvious funnel/conversion gaps vs KB frameworks. Medium = potential fit but unclear offer or niche. Low = wrong niche, no digital offer, or already well-systemised.`;
 
-    const cr = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 2000,
-        system: systemPrompt,
-        messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
-      })
+    // Route through Apify proxy to avoid CORS — runs a tiny actor that calls Claude
+    const proxyPayload = {
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 2000,
+      system: systemPrompt,
+      messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
+    };
+
+    const cr = await fetch(
+      `https://api.apify.com/v2/acts/apify~claude-ai/runs?token=${apifyKey}&waitForFinish=120`,
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          anthropicApiKey: claudeKey,
+          modelSettings: proxyPayload
+        })
+      }
+    ).then(async proxyRes => {
+      // If the Apify actor isn't available, fall back to direct API call via cors-anywhere or similar
+      if (!proxyRes.ok) {
+        // Direct call as fallback — will work if user has CORS extension or runs locally
+        return fetch('https://api.anthropic.com/v1/messages', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'x-api-key': claudeKey,
+            'anthropic-version': '2023-06-01',
+            'anthropic-dangerous-direct-browser-access': 'true'
+          },
+          body: JSON.stringify(proxyPayload)
+        });
+      }
+      // Apify actor succeeded — get the output
+      const runData = await proxyRes.json();
+      const datasetId = runData.data?.defaultDatasetId;
+      if (datasetId) {
+        const items = await (await fetch(`https://api.apify.com/v2/datasets/${datasetId}/items?token=${apifyKey}`)).json();
+        // Wrap in a format matching Anthropic's response
+        return { ok: true, json: async () => items[0] };
+      }
+      throw new Error('Claude proxy returned no data');
     });
 
     const cd = await cr.json();
