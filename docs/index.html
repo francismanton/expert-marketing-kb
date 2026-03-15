@@ -186,9 +186,11 @@ let currentReport = null;
 
 // Persist API keys in localStorage
 const KEY_FIELDS = ['apifyKey', 'claudeKey', 'ghlKey'];
-KEY_FIELDS.forEach(id => {
-  const saved = localStorage.getItem('pie_' + id);
-  if (saved) document.getElementById(id).value = saved;
+window.addEventListener('DOMContentLoaded', () => {
+  KEY_FIELDS.forEach(id => {
+    const saved = localStorage.getItem('pie_' + id);
+    if (saved) document.getElementById(id).value = saved;
+  });
 });
 function saveKeys() {
   KEY_FIELDS.forEach(id => {
@@ -283,7 +285,11 @@ async function analyse() {
   const url = document.getElementById('url').value.trim();
   const apifyKey = document.getElementById('apifyKey').value.trim();
   const claudeKey = document.getElementById('claudeKey').value.trim();
-  if (!url || !apifyKey || !claudeKey) { showError('URL, Apify API key, and Claude API key are all required.'); return; }
+  const missing = [];
+  if (!url) missing.push('URL');
+  if (!apifyKey) missing.push('Apify API Key');
+  if (!claudeKey) missing.push('Claude API Key');
+  if (missing.length) { showError('Missing: ' + missing.join(', ')); return; }
   saveKeys();
 
   document.getElementById('analyseBtn').disabled = true;
