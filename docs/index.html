@@ -108,7 +108,7 @@
 <div class="card hidden" id="outputCard">
   <div class="tabs">
     <button class="tab active" onclick="switchTab('diagnosis', this)">Diagnosis</button>
-    <button class="tab" onclick="switchTab('outreach', this)">Outreach</button>
+    <button class="tab" onclick="switchTab('outreach', this)">Talking Points</button>
     <button class="tab" onclick="switchTab('ghl', this)">GHL push</button>
   </div>
 
@@ -178,6 +178,19 @@ const KB_FILES = [
 ];
 
 let currentReport = null;
+
+// Persist API keys in localStorage
+const KEY_FIELDS = ['apifyKey', 'claudeKey', 'ghlKey'];
+KEY_FIELDS.forEach(id => {
+  const saved = localStorage.getItem('pie_' + id);
+  if (saved) document.getElementById(id).value = saved;
+});
+function saveKeys() {
+  KEY_FIELDS.forEach(id => {
+    const val = document.getElementById(id).value.trim();
+    if (val) localStorage.setItem('pie_' + id, val);
+  });
+}
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 function setProgress(text) {
@@ -266,6 +279,7 @@ async function analyse() {
   const apifyKey = document.getElementById('apifyKey').value.trim();
   const claudeKey = document.getElementById('claudeKey').value.trim();
   if (!url || !apifyKey || !claudeKey) { showError('URL, Apify API key, and Claude API key are all required.'); return; }
+  saveKeys();
 
   document.getElementById('analyseBtn').disabled = true;
   document.getElementById('errorBox').classList.add('hidden');
