@@ -347,28 +347,49 @@ Return ONLY valid JSON — no markdown, no backticks, no preamble:
 
 Fit criteria: High = clear offer, expert/info business, obvious funnel/conversion gaps vs KB frameworks. Medium = potential fit but unclear offer or niche. Low = wrong niche, no digital offer, or already well-systemised.`;
 
-    const cr = await fetch('https://api.anthropic.com/v1/messages', {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'x-api-key': claudeKey,
-        'anthropic-version': '2023-06-01',
-        'anthropic-dangerous-direct-browser-access': 'true'
-      },
-      body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
-        max_tokens: 2000,
-        system: systemPrompt,
-        messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
-      })
+    // Route Claude API call through Apify HTTP actor to avoid browser CORS
+    const claudeBody = JSON.stringify({
+      model: 'claude-sonnet-4-20250514',
+      max_tokens: 2000,
+      system: systemPrompt,
+      messages: [{ role: 'user', content: `Analyse this website using the expert KB frameworks above:\n\n${siteContent}` }]
     });
-    if (!cr.ok) {
-      const errData = await cr.json().catch(() => ({}));
-      throw new Error(errData.error?.message || `Claude API error ${cr.status}`);
-    }
 
-    const cd = await cr.json();
-    const raw = (cd.content?.[0]?.text || '').replace(/```json|```/g, '').trim();
+    const proxyRes = await fetch(
+      `https://api.apify.com/v2/acts/superlativetech~http-api/runs?token=${apifyKey}&waitForFinish=120`,
+      {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          method: 'POST',
+          endpoint: 'https://api.anthropic.com/v1/messages',
+          headers: [
+            { name: 'Content-Type', value: 'application/json' },
+            { name: 'x-api-key', value: claudeKey },
+            { name: 'anthropic-version', value: '2023-06-01' }
+          ],
+          body: claudeBody,
+          timeoutSeconds: 120,
+          maxRetries: 1
+        })
+      }
+    );
+    if (!proxyRes.ok) {
+      const pe = await proxyRes.json().catch(() => ({}));
+      throw new Error(pe.error?.message || `Apify proxy error ${proxyRes.status}`);
+    }
+    const proxyRun = await proxyRes.json();
+    const datasetId = proxyRun.data?.defaultDatasetId;
+    if (!datasetId) throw new Error('Apify proxy returned no dataset');
+
+    const dsRes = await fetch(`https://api.apify.com/v2/datasets/${datasetId}/items?token=${apifyKey}`);
+    const dsItems = await dsRes.json();
+    if (!dsItems?.length) throw new Error('Claude analysis returned empty — check your Claude API key has credit');
+
+    const claudeResponse = typeof dsItems[0].body === 'string' ? JSON.parse(dsItems[0].body) : dsItems[0].body;
+    if (claudeResponse?.error) throw new Error(claudeResponse.error.message || 'Claude API error');
+
+    const raw = (claudeResponse.content?.[0]?.text || '').replace(/```json|```/g, '').trim();
     const parsed = JSON.parse(raw);
     populateReport(parsed);
     document.getElementById('progress').classList.add('hidden');
