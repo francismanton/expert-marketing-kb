@@ -386,10 +386,33 @@ Fit criteria: High = clear offer, expert/info business, obvious funnel/conversio
     const dsItems = await dsRes.json();
     if (!dsItems?.length) throw new Error('Claude analysis returned empty — check your Claude API key has credit');
 
-    const claudeResponse = typeof dsItems[0].body === 'string' ? JSON.parse(dsItems[0].body) : dsItems[0].body;
-    if (claudeResponse?.error) throw new Error(claudeResponse.error.message || 'Claude API error');
+    // The proxy actor may nest the response in different ways — try all paths
+    const item = dsItems[0];
+    let claudeResponse = null;
 
-    const raw = (claudeResponse.content?.[0]?.text || '').replace(/```json|```/g, '').trim();
+    // Try: item.body (string or object), item.response, item.data, or the item itself
+    const candidates = [item.body, item.response, item.data, item];
+    for (const c of candidates) {
+      if (!c) continue;
+      try {
+        const obj = typeof c === 'string' ? JSON.parse(c) : c;
+        if (obj.content && Array.isArray(obj.content)) { claudeResponse = obj; break; }
+        if (obj.body) {
+          const inner = typeof obj.body === 'string' ? JSON.parse(obj.body) : obj.body;
+          if (inner.content && Array.isArray(inner.content)) { claudeResponse = inner; break; }
+        }
+      } catch(e) { /* try next candidate */ }
+    }
+
+    if (!claudeResponse) {
+      // Show what we actually got so we can debug
+      const preview = JSON.stringify(item, null, 2).slice(0, 500);
+      throw new Error(`Could not find Claude response in proxy output. Got: ${preview}`);
+    }
+
+    if (claudeResponse.error) throw new Error(claudeResponse.error.message || 'Claude API error');
+
+    const raw = (claudeResponse.content[0]?.text || '').replace(/```json|```/g, '').trim();
     const parsed = JSON.parse(raw);
     populateReport(parsed);
     document.getElementById('progress').classList.add('hidden');
