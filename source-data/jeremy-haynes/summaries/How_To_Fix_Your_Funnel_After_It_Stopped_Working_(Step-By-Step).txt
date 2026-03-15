@@ -1,0 +1,22 @@
+TITLE: How To Fix Your Funnel After It Stopped Working (Step-By-Step)
+VIDEO: https://www.youtube.com/watch?v=Rp1Ej2NIZQY
+CATEGORY: Funnels
+============================================================
+
+CORE CONCEPT:
+When a funnel stops working, it's never random — there's always a specific contracted statistic causing the problem. The fix is methodical bottleneck analysis comparing current stats to your baseline, laser-focusing on the single choked metric, and testing only that variable. When ALL stats break simultaneously, you've exhausted your audience pocket and need new messaging or a new funnel type.
+
+TACTICAL TAKEAWAYS:
+- First action: repeat what was previously working. Most funnel failures come from taking too many incremental changes away from what worked. If you were at 2x ROAS, took an action that dropped it to 1.3x, immediately undo that action and return to baseline before trying something new. Never stack multiple untested changes — each failed change takes you further from your working state.
+- Run a bottleneck analysis comparing every key metric against your successful baseline: CPMs → link CTR → opt-in rate → application rate → application completion rate → call booking rate → show rate → close rate → AOV. The contracted stat reveals exactly where to focus. Only drill into sub-metrics (like question-by-question Typeform drop-off) when the parent stat is the identified bottleneck.
+- Current Meta glitch to watch for: infinite bot traffic causes artificially high link CTR, single-digit CPMs, and zero conversions. The fix is excluding Reels as a placement. Always check whether terrible stats indicate a tech issue (1% opt-in rate = tech, 10-15% opt-in rate = CRO opportunity) vs. a marketing problem.
+- When ALL stats nuke simultaneously, you've milked your audience pocket dry. Think of it as oil fields vs. aquifers: some audience pockets are non-renewable (once exhausted, they're gone), others replenish but at a limited rate that can't sustain your extraction pace. The solution is deploying completely new messaging or switching funnel types (call funnel → webinar → challenge funnel → low-ticket-to-high-ticket).
+- Never deploy "hope" as a strategy. When momentum turns negative, it compounds — each day of inaction makes recovery harder. Attack funnel problems aggressively and immediately. Don't sit on your hands waiting for stats to improve on their own.
+
+KEY QUOTES:
+- "It's never random — there's a specific statistic, one stat or maybe a combination of a few stats that are shaved off a couple points that are currently screwing you."
+- "I don't care about the play rate on the video until the problem is my page. You understand? All the smaller stats don't mean anything unless that specific bigger stat is what is choked."
+- "Hope is not a strategy — you will be absolutely screwed if you just sit on your hands and wait and act like things are going to improve."
+
+APPLY WHEN:
+A previously profitable funnel has stalled or stats are declining. Use the single-stat bottleneck approach when one metric is clearly contracted, and the audience-exhaustion framework when everything breaks at once. Essential diagnostic framework before making any reactive changes to a struggling campaign.

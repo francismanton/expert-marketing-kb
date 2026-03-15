@@ -1,0 +1,21 @@
+TITLE: The Perfect Sales Page Layout For Challenge Funnels
+VIDEO: https://www.youtube.com/watch?v=CueNYVQcJDc
+CATEGORY: Funnels - Challenge
+============================================================
+
+CORE CONCEPT:
+The optimal challenge funnel sales flow includes a long-form sales page with embedded two-step order form, bump offers, two one-click upsells (OTOs), and a confirmation page that doubles as a call funnel with VSSL and scheduler — allowing you to close high-ticket buyers before the event even starts.
+
+TACTICAL TAKEAWAYS:
+- Long-form sales page layout (top to bottom): Headline + sub-headline (outcome-based, NOT income claims), character photo with supporting text and CTA button, pricing boxes with timer (timer counts down to PRICING deadline, not event date — creates more urgency), outcome section, 3-day agenda with outcome-based session titles, speaker bios written around what they'll teach (not generic bios they send you), pricing comparison table (general vs. VIP), and FAQ dropdowns.
+- Pricing boxes should show all tiers (early bird, extended early bird, regular, last-minute) with inactive tiers grayed out. Each box can be a clickable CTA to the order form. As pricing phases pass, gray out completed tiers to prove you actually raised prices — builds trust for future promotions.
+- Post-purchase flow: Order form page with bump offer ($10-$30 add-on checkbox) → OTO 1 (one-click upsell with headline + VSSL + button + "no thanks" link) → OTO 2 → Confirmation page that embeds a VSSL, application, and scheduler for your main high-ticket offer. This lets you close buyers before the event starts.
+- Add live chat support (chat bubble) on order form pages with setters manning it. Pay setters per ticket sold or a small percentage of daily ticket revenue. Many potential buyers drop off due to simple tech issues or one unanswered question that a live setter could resolve.
+- Webinar promotion strategy as alternative: Higher cost per purchase but produces higher VIP take rates since you're selling live. Can combine both approaches. Long-form pages generally outperform for most businesses — webinar-only success often indicates a weak sales page rather than the webinar being inherently superior.
+
+KEY QUOTES:
+- "You'd be impressed to know the amount of people that wanted to buy that didn't buy because they had some kind of tech issue on your page."
+- "I don't want to be right. I just want to make money."
+
+APPLY WHEN:
+You're building the sales funnel infrastructure for a challenge funnel or 3-day virtual event. Use this as a section-by-section blueprint for the long-form sales page, order form, upsell pages, and the critical confirmation-page-as-call-funnel step that pre-sells your high-ticket offer before the event begins.

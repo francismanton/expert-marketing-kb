@@ -1,0 +1,22 @@
+TITLE: Answering Your BIGGEST Questions About Meta Andromeda
+VIDEO: https://www.youtube.com/watch?v=gBO8-F8hdPA
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+Meta Andromeda is the first step of Facebook's two-step ad distribution algorithm (Andromeda for retrieval, Meta Lattice for ranking). It sifts through all available ads and selects thousands to hand off to Lattice, which then matches specific ads to specific people. The update was driven by the explosion of AI-generated creatives and requires advertisers to provide high-volume, messaging-diversified creative — not just hook variations on the same body.
+
+TACTICAL TAKEAWAYS:
+- Use a two-campaign structure: one Cold campaign (with 3 ad sets: Broad, Interest Stack, Lookalike Stack) and one Warm campaign (warm audience stack of social engagers, video viewers, website visitors, email lists — exclude customers). Each ad set gets the same 25-30 unique ads with 5 dynamic headlines and 5 body copy variations shared across all ads.
+- Expect only 1-3 out of 25-30 ads to actually get distribution. Don't demonize the rest — this is how Andromeda works. When you see winners emerge, convert that ad set into a scaling ad set and hit the ceiling. Never pull winners into a separate "winner ad set" — that's old-school thinking that breaks Andromeda's optimization.
+- To test non-distributed ads: duplicate the ad set, remove the 1-3 that already got reach, add 1-3 new replacements, and republish. After 3 cycles of an ad never getting distribution, swap it out for fresh creative. Don't recreate more ads with the same winning messaging — that just drills more wells into the same pocket audience and accelerates fatigue.
+- Ad fatigue cycles are far longer under Andromeda. When something works, don't touch the ad set — just scale it. Andromeda finds micro-hooks that reach niche audience pockets you couldn't target manually since 2017.
+- Match your landing page messaging to whichever 1-3 ads get distribution in each ad set. Use unique URL paths per ad set so you can update each funnel page to parrot the winning ad's messaging. This is the Google Ads "page relevancy" best practice that Facebook advertisers have been ignoring.
+
+KEY QUOTES:
+- "Gone are the days where you just change the first 3 seconds of the hook and keep the same body on every single ad."
+- "Messaging controls targeting nowadays. Messaging is more important than it's ever been."
+- "Don't drill more wells into the same pocket audience — keep exploring new messaging."
+
+APPLY WHEN:
+Reference this when a client is launching or restructuring Facebook/Meta ad campaigns, experiencing rising CPAs after algorithm changes, stuck with old campaign structures (CBO/ABO with winner ad sets), or unclear on how many creatives they need and why. Essential for any client spending $10K+/month on Meta ads.

@@ -1,0 +1,22 @@
+TITLE: Exactly How I'd Scale A Business To $1M/Month (Step-By-Step)
+VIDEO: https://www.youtube.com/watch?v=RQYB5zGMwyM
+CATEGORY: Strategy
+============================================================
+
+CORE CONCEPT:
+Scaling to $1M/month follows a specific sequence: do the million-dollar math to reveal exact customer counts and ad spend needed, pick the funnel type that plays to your sales team's strengths and budget, select the right ad strategy (content-first for warm-lead teams, hydra/lead forms for dialer teams), then place the bet and solve problems at maximum speed to reach profitability and scalability.
+
+TACTICAL TAKEAWAYS:
+- Start with the million-dollar math. Divide $1M by your average 30-day cash collected AOV to get the customer count needed. Back into calls needed (using close rate, show rate, one-call vs. two-call close), then multiply by cost per call to get required ad spend. Optimize around 30-day cash collected, not projected payment plan revenue. This math reveals every downstream number including closer hiring timelines.
+- Pick your funnel based on three factors: sales team strengths, budget, and current acquisition model. Killer dialer teams → run Hydra strategy with lead forms for maximum volume. Teams that need warm leads → webinar funnels or call funnels with full backend selling systems. Already doing well with DM ads organically → just run paid DM ads. Webinar tests require 3-4x the monthly budget of call funnel tests to generate enough data.
+- Use recurring offers to close the financial deficit. If your math reveals you need $200K/month in ad spend but you're at $50K, create a $1K-$10K/month recurring offer. Fifty people at $1K/month = $40K+ in pure-profit ad budget funded by other people. Organic revenue can also be siphoned as a "gambling budget" for paid ads.
+- Build a scaling plan in a Google Sheet showing week-by-week spend increases, projected call volume, and closer hiring deadlines. Closers take 2-4 weeks from hire to filling calendars — plan hiring ahead of spend increases or you'll bottleneck.
+- Use content-first ad strategies (Venus Fly Trap, Harvester, Tornado, Forester) to replicate the organic sales process via paid ads. Raw-dogging a call funnel with no content on paid ads will fail — sales teams will complain about cold leads and your dollars will vaporize.
+
+KEY QUOTES:
+- "If you try to launch towards a million dollars a month and you do not do basic math, you are an idiot."
+- "You can't just take a call funnel by itself and raw dog it with no content — that's not going to work for you."
+- "There's a whole stack of problems all waiting on the other side of you taking action. If you go slow, they're all still there regardless."
+
+APPLY WHEN:
+Reference this when a client wants a concrete roadmap to $1M/month, needs help choosing between funnel types, is unsure how much ad spend they actually need, or is scaling too slowly because they haven't done the math. Also useful for clients with strong organic revenue who need to transition to or supplement with paid acquisition.

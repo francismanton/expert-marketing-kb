@@ -1,0 +1,21 @@
+TITLE: Meta's NEW Andromeda Update Is Skyrocketing Ad Costs (Do THIS Now)
+VIDEO: https://www.youtube.com/watch?v=m7lkQGLiZZo
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+Meta's Andromeda algorithm update replaced the first step in the ad creative recommendation process, requiring either massive creative volume (50+ per week) or true messaging diversity across 15+ unique ads per month. The update was triggered by generative AI creating 10,000x more ad creatives than previously existed.
+
+TACTICAL TAKEAWAYS:
+- Path 1 (volume approach): Commit to 50+ creative iterations per week using the traditional hook-swap method (new hooks on same body/CTA). This works but requires massive ongoing content production and experiences faster ad fatigue — like "antibiotics where the disease grows immune."
+- Path 2 (diversity approach, recommended): Create 15 unique ads per month where each ad is thematically different through-and-through — not just different hooks on the same body. Each ad should center on a completely different reason to buy (e.g., for dog food: one ad about health, another about longevity, another about coat quality).
+- Path 2 delivers cheaper CPMs, longer campaign longevity, and less account management than Path 1. The diverse messaging lets Andromeda match tiny niche hooks with specific pocket audiences, then rotate to other messaging when that pocket fatigues.
+- Andromeda has changed hook dynamics — historically one dominant hook captured most reach, but now small niche hooks that previously had zero traction are pulling significant weight by drilling into pocket audiences with extreme precision before rotating.
+- Meta's advantage creative enhancements work well for e-commerce product photos but produce poor results for service-based, high-ticket, and info businesses — these niches need in-house or agency creative production to meet the new volume/diversity requirements.
+
+KEY QUOTES:
+- "You must have a very diverse set of messaging in whatever assets you provide to us, and/or you must load us up with a lot more creatives than what you're historically used to."
+- "It's the tiniest little hook that you'll be surprised you even have working for you — bringing in very qualified people ready to show up and buy."
+
+APPLY WHEN:
+Your Meta ad costs spiked unexpectedly (especially post-July 2025) and nothing you historically did to fix costs is working. This is the diagnostic and solution framework for adapting your creative strategy to Andromeda's new requirements — choose between volume (Path 1) or messaging diversity (Path 2).

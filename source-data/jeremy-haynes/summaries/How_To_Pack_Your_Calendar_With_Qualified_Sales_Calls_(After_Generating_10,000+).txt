@@ -1,0 +1,22 @@
+TITLE: How To Pack Your Calendar With Qualified Sales Calls (After Generating 10,000+)
+VIDEO: https://www.youtube.com/watch?v=tS4H9OjwrEU
+CATEGORY: Sales
+============================================================
+
+CORE CONCEPT:
+Unqualified sales calls are almost always a messaging problem, not an audience problem. When lead quality drops, update your messaging across all touchpoints (ads, funnels, emails, confirmation pages, sales scripts) to match what the market is currently thinking — don't change the audience, change how you communicate to them. Additionally, how you structure applications, financial qualifiers, and funnel friction signals who you are and who you're selling to.
+
+TACTICAL TAKEAWAYS:
+- When lead quality drops, update messaging first — don't change audiences. The market becomes more sophisticated over time; competitors introduce new mechanisms. Like Drake's music aging with his audience, your messaging must evolve with what your market is currently thinking. Simply "say what they want out loud" in your current messaging across ads, funnels, emails, confirmation pages, and sales conversations.
+- Understand the Meta algorithm's broad targeting dynamics: large advertisers reach people first, and if they fail to convert, competitors get served immediately after. This means (1) big spenders must optimize for speed-to-conversion because prospects see competitors within hours, and (2) small advertisers benefit by differentiating their messaging mechanism from the market leader.
+- Use the right language for your demographic — vocabulary is a signal. Rich people use "capital," "liquidity," and "dry powder," not "cash" or "money." Using wrong-demographic language exposes you as an impostor and tanks conversion rates. Every word in your ads, pages, and application questions signals who you are and who your offer is for.
+- Optimize application questions for intent, not just volume: reducing questions from 18 to 7 cut cost per call in half but dropped show rate 20% and lowered intent. The fix: swap multiple choice for short-form typed answers (3 of 7 questions). Use AI to analyze word count in typed responses and send only high-word-count applicants back through the Conversion API — this conditions the pixel to find higher-intent leads.
+- Remove opt-in pages when selling to rich people — they signal you're an impostor. Rich-people businesses (Chanel, luxury car dealers) don't collect info before letting you shop. Run a CRM report: people who opted in but didn't apply who later bought. If it's near-zero revenue, the opt-in is only inflating your cost per call. Exception: keep it if setters are monetizing the opt-in list profitably.
+
+KEY QUOTES:
+- "All you have to do is look at what the market is currently thinking and say what they want out loud."
+- "Opt-in pages are the devil when you're selling to a very financially well-off demographic."
+- "64% of high earners in a poll said they would lie about how much money they make on an application."
+
+APPLY WHEN:
+Sales team is complaining about lead quality, close rates are dropping despite consistent ad spend, or you're transitioning from warm/organic leads to cold paid traffic. Essential when competitors have entered your market and prospects are showing up with more options and less urgency to buy.

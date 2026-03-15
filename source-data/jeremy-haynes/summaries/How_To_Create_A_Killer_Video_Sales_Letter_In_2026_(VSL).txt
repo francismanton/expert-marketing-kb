@@ -1,0 +1,22 @@
+TITLE: How To Create A Killer Video Sales Letter In 2026 (VSL)
+VIDEO: https://www.youtube.com/watch?v=rL1FIHwg8PE
+CATEGORY: Funnels - VSL
+============================================================
+
+CORE CONCEPT:
+In 2026, VSL effectiveness depends on respecting the viewer's bias toward efficiency and energy conservation. The winning formula is a 60-90 second upfront summary of the entire pitch, video chaptering for self-directed consumption, strategic decisions around button withholding based on your financial capacity and sales team skill, and minimal page elements to force video engagement.
+
+TACTICAL TAKEAWAYS:
+- Open every VSL with a 60-90 second "summary section" that covers everything the full VSL addresses — like the tweet version of your newsletter. People want to conclude whether it's for them with minimal time invested. Then expand on each point for the remainder. This dramatically improves play rate and engagement.
+- Add video chapters so viewers can scrub to sections they care about. More people will consume more of your VSL when they can navigate it their way. Fighting this impulse by hiding the playbar actually attracts lower-quality leads because you're forcing consumption on people who already understood the point.
+- The button withhold decision depends on your bank account and sales team: if you can afford temporarily inflated CPAs while the pixel reconditions around higher-intent leads, withhold the apply button. If your sales team requires pre-educated leads, withhold. If your closers are dogs who can close cold, keep the button visible. Note: withholding reduces pixel conversion data, which can break learning phase exit.
+- Keep the page stripped down to headline + VSL + application/button only. Too much page content lets people skip the video entirely (energy conservation bias). Video thumbnails on Wistia or Vidalytics that preview what the video covers significantly boost play rates — show the specific thing prospects care about most.
+- VSL length in 2026: 10-20 minutes is the norm. Rich audiences prefer 2-5 minute ultra-direct VSLs; general public responds to longer content (up to 60 min, even unedited podcast-style). Three effective styles: talking head with edits, Google Doc/slides with talking head side-by-side, and slides with voiceover screencast — all performing roughly equally.
+
+KEY QUOTES:
+- "People bias towards their energy conservation and efficiency — they want to conclude whether it's for them in as little time invested as possible."
+- "If you put too much information on the page, you're actually going to negate people from watching the VSL."
+- "Exiting learning phase makes a huge difference to campaign performance right now — withholding the button limits conversion data back to the pixel."
+
+APPLY WHEN:
+Creating or optimizing a VSL for a call funnel, low-ticket-to-high-ticket page, or any conversion page where video is the primary selling mechanism. Especially useful when diagnosing low play rates, low engagement rates, or when deciding whether to gate the CTA behind video consumption. Critical distinction between rich vs. general public audience targeting.

@@ -1,0 +1,22 @@
+TITLE: How To Pitch The Offer Inside A 3-Day Virtual Event
+VIDEO: https://www.youtube.com/watch?v=-mNKwO3sYZQ
+CATEGORY: Funnels - Challenge
+============================================================
+
+CORE CONCEPT:
+The pitch inside a 3-day virtual event follows a specific sequence: pre-pitch framing (30-45 min of strategic storytelling to prime buying behavior), ask-to-pitch transition (Russell Brunson's method of requesting permission to sell), anchoring back to what you taught for free vs. what the paid offer does faster/better, then layered CTAs — PIF first, then payment plans, then deposit-based call booking for higher-ticket offers.
+
+TACTICAL TAKEAWAYS:
+- Pre-pitch for 30-45 minutes before the actual pitch using Myron Golden's framework: tell stories that embed identity traits, risk tolerance, and willingness to invest. The audience perceives it as valuable mindset content, not a sales setup. Study Myron's "Science of Rapid Wealth Creation" YouTube video as a template. You're aligning the audience's character and decision-making framework to the purchase.
+- Use Russell Brunson's ask-to-pitch transition: explicitly ask the audience for permission to sell. "Can you say yes in the chat if you're open to the opportunity?" This creates a flood of engagement and makes the transition feel collaborative rather than forced. Then smoothly move into: "All right, let me show you what I've put together."
+- Anchor the offer against what you taught for free: "I taught you X, which gets results at Y expectations. Component 1 of my offer does the same thing but at Z better expectations." Walk through each offer component this way. The offer stack should contain components that achieve the same outcomes but faster, more efficiently, and with more support paths (done-for-you, done-with-you, AI tools, community, SOPs).
+- For direct-to-checkout ($7,500 or less): Drop PIF link first → objection handling + risk reversals → drop PIF link again → introduce payment plans (internal split-pays + financing options) → frame good debt vs. bad debt → drop payment plan links. Multiple payment options reduce "no" from 50% to 25% (3 yes options + 1 no = 75% yes probability).
+- For book-a-call (above ~$7,500): Offer deposit-based priority call booking first ("serious people book first"), then no-deposit call booking for the hesitant ("5-15 days out, no cost"). The deposit gets credited toward the purchase. Include a drop-sell offer on the call if the main offer doesn't fit. After the initial pitch, do a re-pitch from a completely different angle — same offer, different perspective (like showing both sides of an iPad).
+
+KEY QUOTES:
+- "Pre-pitching is empowering somebody prior to actually pitching them, so they strategically conclude this makes sense and they're primed to take action."
+- "If I introduce a price and leave the answer to a simple yes or no, I've got a 50/50 shot. Give them four options — three yeses and one no — and you've got 75% probability."
+- "When you re-pitch, you're pitching them a totally different angle on the same thing."
+
+APPLY WHEN:
+Preparing the pitch segment of a 3-day virtual event or challenge funnel, designing the offer CTA structure (direct checkout vs. call booking), or optimizing conversion rates from live event pitches. Critical for events selling offers above $5K where the pitch execution directly determines whether the event is profitable.

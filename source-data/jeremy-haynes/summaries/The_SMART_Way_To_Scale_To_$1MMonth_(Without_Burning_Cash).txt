@@ -1,0 +1,22 @@
+TITLE: The SMART Way To Scale To $1M/Month (Without Burning Cash)
+VIDEO: https://www.youtube.com/watch?v=0KKL9NZvSeo
+CATEGORY: Strategy
+============================================================
+
+CORE CONCEPT:
+The three biggest scaling risks are: going too fast without tracking (losing $111 per booked call without knowing), hiring based on handed-down beliefs rather than reality (projecting illusions onto your operation), and scaling spend without financial modeling that accounts for audience shifts from in-market to needs-convinced demographics.
+
+TACTICAL TAKEAWAYS:
+- Tracking must precede scaling. One client lost $111 per booked call while spending $250K/month because their tracking was lagging and inaccurate. The sales team pressured for more calls (they profit regardless via gross commissions), while the business owner had no visibility into whether calls were profitable. Get forensic accounting clarity before increasing spend.
+- Beware handed-down beliefs from hired executives. A new CFO projected the belief that "Meta is a succubus" onto a client spending $700K/month at nearly 4x ROAS — cutting budget to $75K the next month. Revenue contracted by hundreds of percent. The narrative persisted even after the damage was visible because people will lie to themselves to avoid psychological pain (reference: "Vital Lies, Simple Truths").
+- Don't detach based on the illusion of having "perfect people in place." A business that scaled to $5M/month in under a year imploded because the founder traveled internationally while paying $1.3M/month in payroll to people he assumed were A-players. Multiple advisors warned him — he dismissed all feedback. The business no longer exists.
+- Use financial models with "flex stats" — project current stats to be slightly worse (higher CPL, lower show rate) before scaling. Anticipate the audience shift from in-market (3-4%) to needs-convinced (30%+) and pre-build marketing/sales assets for colder audiences BEFORE you need them (proactive fracking vs. reactive drilling).
+- Prioritize threshold math: understand that at each spend level, your audience composition changes. Build assets for the needs-convinced demographic while things are working well, not after performance declines. Be proactive (oil fracking analogy) rather than reactive.
+
+KEY QUOTES:
+- "Beliefs cause wars. That's what you have to understand about how critical your beliefs really are for shaping behavior."
+- "Everything gets bigger so much quicker than it ever has. It's not one thing at a time — all amplifies at once."
+- "Little tiny holes that you don't even realize — as things just get bigger far faster, they expand."
+
+APPLY WHEN:
+You're scaling past $100K/month in ad spend or rapidly growing team size. Use this as a risk-prevention framework to ensure tracking accuracy, protect against handed-down belief contamination from new hires, and build proactive financial models with flex stats before the audience shift occurs.

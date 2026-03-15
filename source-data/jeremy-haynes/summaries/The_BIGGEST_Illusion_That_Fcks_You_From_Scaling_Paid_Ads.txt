@@ -1,0 +1,22 @@
+TITLE: The BIGGEST Illusion That F*cks You From Scaling Paid Ads
+VIDEO: https://www.youtube.com/watch?v=uk_ZihJyskY
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+The "trough of scaling" is the illusion that declining ROAS during scale-up means something is broken, when in reality ROAS naturally drops as you move from the in-market demographic (3-4% of market) to the "needs convinced" audience (30%+) — and it floors out at a still-profitable level. Comparison bias to your original small-budget ROAS prevents most businesses from ever scaling big.
+
+TACTICAL TAKEAWAYS:
+- Understand Chet Holmes' market layers: In-market customers (3-4% of market, highest ROAS), Needs Convinced (~30%, moderate ROAS), Mass Market (unaware, lowest ROAS), and Non-customers (will never convert). As spend increases, you naturally reach colder layers with lower conversion probability.
+- The trough has a floor — ROAS doesn't decline forever. When you scale daily spend and see ROAS drop, the illusion is that it keeps dropping infinitely. In reality, it stabilizes at a baseline that, combined with higher volume, often produces more total profit than the smaller budget with higher ROAS.
+- Do the math: A painter spending $20/day at $2/lead who scales to $50/day at $17/lead was still making massive profit but cut ads due to comparison bias. If he'd pushed to $1,000-$5,000/day at even $50/lead, he'd have built a painting empire. Financial modeling reveals the true profitability at scale.
+- It's not either/or — it's both. Continue scaling spend while simultaneously performing CRO (conversion rate optimization), bottleneck analysis, and improvement-oriented actions to maintain or raise ROAS during scale. Aggressive CRO during scaling reduces the depth of the trough.
+- Not all ROAS declines are the trough — check for actual problems: Andromeda best practices not followed, page conversion rate drops, show rate declines, funnel bottleneck contractions. Run a bottleneck analysis before assuming the trough is natural.
+
+KEY QUOTES:
+- "The illusion is that it just continues to push down forever. It does not."
+- "When you're rich, life is not about either-ors. You get to do boths."
+- "Something is always probable to need improved. Very rarely can you truly just set something up and be completely hands-off."
+
+APPLY WHEN:
+You've scaled ad spend and watched ROAS decline, causing you to pull back to your "safe" budget. Use this framework to determine whether you're experiencing the natural trough of scaling (solve with math and financial modeling) or an actual funnel/creative problem (solve with bottleneck analysis and CRO).

@@ -1,0 +1,22 @@
+TITLE: Steal This Checklist To Instantly Increase Your Show Rates
+VIDEO: https://www.youtube.com/watch?v=PwfuuokLx0o
+CATEGORY: Show Rates
+============================================================
+
+CORE CONCEPT:
+Show rate improvement requires a full-funnel checklist approach spanning front-end (ads, messaging, landing pages, applications) and back-end selling systems (confirmation pages, value-dense emails, Hammer Them campaigns, SDR personalization). Each back-end system individually delivers double-digit show rate improvements.
+
+TACTICAL TAKEAWAYS:
+- Front-end messaging controls who books in the first place. Image ads bring lower-intent leads than video ads. Ensure congruency between ad messaging and back-end selling systems — incongruent messaging (promising X in ads, talking about Y in follow-up) causes people to think they booked with the wrong company.
+- Remove opt-in pages in 90% of cases — split-testing shows removing opt-ins improves show rates most of the time. Rich buyers don't opt in; opt-ins artificially inflate cost per call and filter out high-value prospects. Only keep opt-ins if you have a killer setter team or high-performing email sequence converting opt-ins to bookings.
+- Application question design directly impacts show rates. An 18-question application was cut to 7 questions and show rate dropped 20% because friction was removed. Sometimes you need MORE questions, not fewer — the right questions signal competency and filter for intent. Conditional logic questions for lead scoring are different from intent-building questions.
+- Optimize confirmation pages with an urgency video (believable reasons to prioritize the call), breakout videos (showcase refund rate, dispute rate, transaction volume for trust), testimonials, and FAQs. Well-optimized confirmation pages alone deliver ~17% average show rate improvement.
+- Deploy value-dense email sequences (start at 3/day, scale to 6/day if open rates hold) where consumption happens IN the email, not through click-throughs. Pair with the Hammer Them content ad strategy (30-50 short-form + 15-30 long-form pieces distributed to booked leads) and personalized setter selfie videos tailoring resources based on application data.
+
+KEY QUOTES:
+- "The difference between a 50% show rate and a 70% show rate on a call funnel is realistically a couple hundred thousand for most of you."
+- "Pixel conditioning and messaging is essentially targeting nowadays."
+- "We typically see about a 17% average improvement in show rates just from a well-optimized confirmation page."
+
+APPLY WHEN:
+Your show rate is below 60% on call funnels or below 25% on webinars and you need a systematic diagnostic checklist. Walk through front-end (ads, landing page, application) and back-end (confirmation page, emails, Hammer Them, SDR outreach) to identify which specific step is contracted.

@@ -1,0 +1,22 @@
+TITLE: The BEST Ad Creative Testing Strategy For 2026 (Post-Andromeda)
+VIDEO: https://www.youtube.com/watch?v=NKOHsR9nVEM
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+Post-Andromeda creative testing requires launching 25-30 unique diverse ads in a simplified campaign structure, accepting that only 1-3 will get distribution, then scaling winners and cycling through the undistributed ads via a foundational campaign duplication process — not the outdated method of isolating each ad in its own ad set.
+
+TACTICAL TAKEAWAYS:
+- Campaign structure: Two campaigns (cold + warm). Cold campaign has 3 ad sets (broad, interest stack, lookalike stack) each containing the SAME 25-30 unique ads with 5 shared headlines and 5 shared body copy variations. Use ABO (not CBO) for budget control. Turn off all AI advantage creative toggles except the positive comment highlight feature.
+- Accept that 1-3 ads out of 25-30 will get all the reach — this is how Andromeda works. The outdated belief that "every creative deserves distribution" leads people to create 25-30 separate ad sets with one ad each, causing massive audience overlap and artificially inflated costs.
+- Scaling process: When 1-3 winners emerge and you like the leads, scale spend until you hit a ceiling. Then convert to a "foundational campaign" at the ceiling spend level. Duplicate the ad set, remove the winning ads, keep the undistributed ads, add 1-3 fresh ones, and run at test budget. Repeat the cycle.
+- If the 1-3 winners bring bad leads (confirmed by sales team feedback, not just metrics), treat them as losers — kill that ad set, duplicate, remove losers, add new ads, and repeat until you find winners that bring quality leads.
+- Always maintain a stockpile of filmed but unused ads so you can immediately replace winners or losers without production delays. Speed of creative turnaround is a competitive advantage most advertisers waste.
+
+KEY QUOTES:
+- "I don't give a shit about being right. I give a shit about making money."
+- "You're going to feel like it's wasted effort when you launch 25 to 30 ads and one to three get all the reach. That means 27 to 29 with little to no reach. That's how it works."
+- "My goal is to test my way out of testing and get to the point where I can scale the shit out of something."
+
+APPLY WHEN:
+You're running Meta ads post-Andromeda and struggling with either creative testing methodology, campaign structure, or the decision of when to scale vs. when to kill and relaunch. This is the complete if-this-then-that framework for the testing-to-scaling cycle.

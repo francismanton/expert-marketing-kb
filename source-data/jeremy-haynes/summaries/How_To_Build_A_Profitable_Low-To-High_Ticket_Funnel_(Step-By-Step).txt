@@ -1,0 +1,22 @@
+TITLE: How To Build A Profitable Low-To-High Ticket Funnel (Step-By-Step)
+VIDEO: https://www.youtube.com/watch?v=biOjWH8eJXU
+CATEGORY: Funnels - Low-High
+============================================================
+
+CORE CONCEPT:
+A profitable low-ticket-to-high-ticket funnel requires strategic pricing of the entry product high enough to liquidate ad spend, 3-4 strategically priced upsells to maximize AOV, rapid consumption/activation of the low-ticket product, and a setter team with trigger-based outreach to convert buyers into high-ticket clients.
+
+TACTICAL TAKEAWAYS:
+- Price your entry-level low-ticket product at $70-$100+ minimum, not $7-$30. The goal is for AOV to exceed your CPA so you break even or profit before the high-ticket sale. The $7-$30 range attracts broke buyers who won't purchase upsells and will chargeback.
+- Include 3-4 upsells total: a bump sell (simple checkbox on order form, ~$17-$19), then 2-3 subsequent upsells priced $100-$300 each. Each upsell should complement the original purchase and be derived from components of your main high-ticket offer.
+- Your high-ticket product is "the main thing" made up of smaller components — pull individual components out to become your low-ticket product and upsells. Example: if high-ticket teaches full agency scaling, the low-ticket could be one acquisition method (cold video pitching), with upsells being swipe files, recorded conversations, and sales call recordings.
+- Optimize for rapid consumption and fast results from the low-ticket product. People won't buy high-ticket until they extract value from what they already purchased. Add complementary content (mindset videos, quick-start guides, email sequences per chapter) to increase activation rate above 80%.
+- Deploy setters with CRM-based triggers (opened access email, downloaded product, consumed content) to reach out as accountability coaches rather than salespeople. The setter team bridges the gap between low-ticket consumption and high-ticket conversion.
+
+KEY QUOTES:
+- "The right types of people that you attract in the first place with the first thing wildly dictate the upsell rate of everything that comes after it in the funnel itself."
+- "If somebody buys something low ticket, they will not buy anything else until the value of the low ticket thing they bought is extracted successfully."
+- "Sell people stuff that's actually valuable and you won't have that dumbass thought about being too salesy in the first place."
+
+APPLY WHEN:
+Building or optimizing a low-ticket-to-high-ticket funnel where you're losing money on front-end sales, have low upsell take rates, or experiencing a long delay between initial purchase and high-ticket conversion. Especially relevant for course creators, agency owners, or coaches who have a high-ticket offer and want to create a self-liquidating front-end acquisition system.

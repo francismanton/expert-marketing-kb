@@ -1,0 +1,21 @@
+TITLE: The NEW Way To Scale Ads with Meta's Andromeda Update
+VIDEO: https://www.youtube.com/watch?v=Rim2s-WFwYg
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+Post-Andromeda, messaging sensitivity is extreme — single words can shift who you reach. Small "pocket audiences" are being exploited more efficiently than ever, but they deplete faster. Success requires generating diverse creative angles from problems, circumstances, and outcomes frameworks, then cycling through them as pockets exhaust.
+
+TACTICAL TAKEAWAYS:
+- Andromeda makes every word in your ad hyper-sensitive for targeting. One Inner Circle member mentioned "JK Rowling" and "author" in a non-writing-related ad and immediately got flooded with authors. In the post-Andromeda world, a single word or handful of words can wildly influence who you reach.
+- Think of audiences as oil pockets — some are large, some are tiny. Andromeda drills into these niche pockets with micro-hooks extremely well, but once a pocket depletes, performance drops. When you see wrong people coming through, you likely ran out of people in that pocket and need new creative angles.
+- Generate diverse ad angles using three frameworks: Problems (specific pain points the buyer has), Circumstances (situations they find themselves in), and Outcomes (results they want to achieve). List as many as possible for each, then create unique through-and-through ads centered on each individual angle.
+- Launch 25-30 unique ads per ad set. Only 1-3 will get reach. When those fatigue, duplicate the ad set, remove the 1-3 that got distributed, and let the remaining 22-25 undistributed ads compete for reach. Add 1-3 new ones to keep the rotation fresh.
+- Use credit-based LLMs (not flat-rate subscription tools like ChatGPT/Claude) with agentic mode for generating ad scripts — they read training material word-for-word without efficiency guardrails, producing more thorough and diverse creative output.
+
+KEY QUOTES:
+- "Everything's more sensitive now than it's ever been before. Literally one word or a handful of words can wildly influence who you're probable to reach."
+- "Messaging controls everything. Meta is a broad targeting platform now — your targeting is suggestive."
+
+APPLY WHEN:
+You're experiencing inconsistent audience quality post-Andromeda — getting the right people for a while, then suddenly attracting the wrong demographic. Use the problems/circumstances/outcomes framework to generate diverse creative angles that let you re-enter the same pocket audience from different perspectives or reach new pockets entirely.

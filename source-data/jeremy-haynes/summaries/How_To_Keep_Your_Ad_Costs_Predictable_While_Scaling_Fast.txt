@@ -1,0 +1,22 @@
+TITLE: How To Keep Your Ad Costs Predictable While Scaling Fast
+VIDEO: https://www.youtube.com/watch?v=_ifb8eApQpk
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+Ad cost spikes while scaling come from four primary sources: Meta's Andromeda algorithm update requiring creative volume/diversity, seasonal ad auction inflation, ad fatigue, and failure to perform bottleneck analysis. Each has specific protocols to maintain cost predictability.
+
+TACTICAL TAKEAWAYS:
+- Meta Andromeda requires one of two creative paths: Path 1 is 50+ fresh creatives per week (high volume), Path 2 is 15-30 well-diversified creatives per month. The key shift is that historically dominant "majority hooks" are being outperformed by previously ignored "minority hooks" — diversified messaging across creatives now outperforms repeating your best-performing hook.
+- Plan for seasonal ad auction inflation: Q4 (Oct-Dec) accounts for ~70% of annual ad spend on Meta. But smaller holidays also now cause multi-day inflation spikes (Valentine's Day, St. Patrick's Day, Easter, school breaks). Use cost cap and bid cap campaigns during inflationary windows instead of auto-bidding, which will automatically inflate your costs.
+- Offset inflationary periods with strategic funnel choices: pass costs to customers, run low-ticket-to-high-ticket funnels to improve front-end ROI, or deploy lump-sum funnels like challenge events during high-cost quarters. Fewer users on platform = higher auction costs, so plan for holiday/vacation periods.
+- Maintain a creative surplus at all times — never immediately deploy freshly filmed creatives. When ad fatigue hits (CPA rising + result volume declining simultaneously), deploy fresh creatives from your surplus. Ad fatigue isn't just frequency-based; it's the platform's signal demanding new creative. Always have backup creatives on the sidelines.
+- Run bottleneck analysis using layered stats: Layer 1 is your cost per result. Layer 2 breaks it into CPMs, link CTR, opt-in rates, conversion rates. Layer 3 digs into sub-stats (play rate, engagement rate) only when the Layer 2 stat above it is the bottleneck. Identify the easiest stat to double — doubling one stat doubles your ROAS without increasing spend.
+
+KEY QUOTES:
+- "The minority hooks, the hooks that never really moved the needle, are actually what's working a lot better than all of the historical majority hooks."
+- "The platform communicates to you through signals — statistics as the signal. They spike your result cost and lower your results to make you pay attention."
+- "You don't want to try to whack all the moles at once. Isolate your attention on one stat — that's where results flow."
+
+APPLY WHEN:
+Experiencing unpredictable ad cost spikes while scaling, preparing for Q4 or seasonal periods, dealing with ad fatigue symptoms, or needing a systematic approach to diagnosing which specific metric is causing inflated costs. Essential for anyone spending $10K+/month on Meta ads.

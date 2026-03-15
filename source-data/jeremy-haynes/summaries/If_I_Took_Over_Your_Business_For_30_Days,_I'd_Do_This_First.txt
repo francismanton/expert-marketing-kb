@@ -1,0 +1,22 @@
+TITLE: If I Took Over Your Business For 30 Days, I'd Do This First
+VIDEO: https://www.youtube.com/watch?v=CVY9pBfJsck
+CATEGORY: Strategy
+============================================================
+
+CORE CONCEPT:
+When taking over any business for 30 days, the first priority is identifying key levers by mapping the entire revenue system, then finding leaks (wasted spend on low-converting segments) and revenue multipliers (redirecting those resources to high-performing segments) — often the same action serves both purposes simultaneously.
+
+TACTICAL TAKEAWAYS:
+- Start by asking "where does the revenue come from?" and put exact percentages to each channel, funnel type, and demographic. Kay was spending $400-500K/month on boosted content posts driving DM ad sales at $3K per close, but hadn't analyzed demographic spend allocation.
+- Run demographic breakdowns in ads manager to find spending leaks. Kay's account showed $4M spent on the 24-40 age demo (producing 90% of buyers) but $2M spent on other demographics producing only 10% of buyers — a 66/33 spend ratio for a 90/10 revenue split. Redirecting that $2M immediately saved money AND amplified revenue.
+- Map the entire system before amplifying or duplicating anything. Organic guys commonly fail when they duplicate just the call funnel with paid ads, missing that their content, sales process, and setter team are all required components of the system that produces results.
+- Look for both leaks and revenue multipliers — leaks become multipliers when you redirect wasted spend to proven segments. This can be discovered in minutes during a single diagnostic conversation.
+- Change your perspective: ask "if I came into my business today as a consultant with only 30 days to make a huge impact, what would I change?" This outside-in reframe unlocks ideas from existing data without needing new information.
+
+KEY QUOTES:
+- "Does it make any sense at all to spend 33% of your total ad spend on where only 10% of your customers come from?"
+- "They never map the entirety of the system, so they don't have visibility into all of what matters."
+- "New data is the fastest way to rip through this thing and get yourself some better results quicker."
+
+APPLY WHEN:
+You need a rapid diagnostic framework for any business — whether consulting for a new client or auditing your own operation. This is the starting point methodology for finding the highest-impact changes within the first 30 days by identifying demographic leaks, system bottlenecks, and immediate revenue multipliers.

@@ -1,0 +1,21 @@
+TITLE: The Best Way To Run Instagram DM Ads In 2026 (Nobody Teaches This)
+VIDEO: https://www.youtube.com/watch?v=IyhO7kcyVWU
+CATEGORY: Ads
+============================================================
+
+CORE CONCEPT:
+Instagram DM ads suffer from severe pixel conditioning problems — optimizing around "message" events floods your results column with 80% unqualified leads, which trains the algorithm to find more unqualified people. The fix is redirecting pixel conditioning through either a quiz funnel filter or a schedule-event optimization that only fires when qualified leads actually book calls.
+
+TACTICAL TAKEAWAYS:
+- Path 1 (Quiz Funnel / "Brokie Bait"): Run ads to a simple 2-question landing page with conditional logic. Only qualified respondents see a page with a MiniChat button prompting them to DM a specific trigger word. Place a web pixel standard event (lead, schedule, or submit_application) on the qualified page so ONLY qualified leads fire the pixel event and condition the algorithm.
+- Path 2 (Schedule Optimization): Use a lead campaign type optimized around "schedule" on the ad set level. The ad itself tells people to DM a specific word, but the destination URL links to your scheduler page. When setters push qualified DM leads to that same scheduler URL and they book, the schedule event fires on the confirmation page, conditioning the pixel toward qualified booked calls.
+- Stop using comparison bias on cost per result — if you get 50 DMs at $10 each but only 10 are qualified, your real cost is $50/qualified DM, not $10. When these strategies show $50 in the results column, that's the TRUE number that was always hidden. The "scary number" was invisible before.
+- Each standard event (lead, schedule, submit_application) unlocks a different subset of the total audience for targeting. Stack multiple events firing on the same qualified page to access different audience pools and expand reach beyond a single event's ceiling.
+- DM ads remain inherently unstable — accounts can be disabled by competitors paying to report you, setters breaking rules unknowingly, or Instagram's inconsistent enforcement. Jeremy recommends more stable funnel types but provides these strategies to reduce volatility for those committed to DM ads.
+
+KEY QUOTES:
+- "Comparison bias will make you an idiot. It's a $50 cost per DM. When that starts to show up exclusively in the results column, that's going to be a good thing, not a bad thing."
+- "We got to get the turds out of the punch bowl to make the juice pure."
+
+APPLY WHEN:
+You're running Instagram DM ads and experiencing inconsistent lead quality, wild performance swings, or an 80/20 unqualified-to-qualified ratio. These two pixel conditioning strategies flip the ratio to 70-80% qualified leads by ensuring only the right people fire the optimization events.
