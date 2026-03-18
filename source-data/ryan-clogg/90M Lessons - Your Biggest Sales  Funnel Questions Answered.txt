@@ -1,0 +1,636 @@
+TITLE: $90M Lessons: Your Biggest Sales & Funnel Questions Answered
+URL: https://www.youtube.com/watch?v=6cG3mD4KJZ8
+VIEWS: 1847 | DURATION: 00:52:22
+================================================================================
+
+What's up, guys? We are back with a weekend Q&A 
+round 14, except this time we are doing it on a weekday. All these questions here were submitted 
+to the request box over the last few weeks. And today, I'm going to answer every single one of 
+them. Everything from data and tracking around split payments to show rate process to organic 
+that leads to high ticket sales to DM setting, I AI implementation, VSSL, phone call funnels, 
+offer creation, structuring, technical setup, the ads, all the things. There's so much context 
+here and I'm going to do my best to provide as much value as humanly possible to you and get 
+these answered. All right. Last year in our info coaching business, we did over 30 million in cash 
+collected. We've now actually done over 90 million in total cash collected in this business. And I'm 
+not selling anything. Everything on the channel share what did work, what did not work, and what 
+we are actively doing to scale this business to over 100 million a year. All with the goal of 
+finding top talent opportunities and networking with cool people, building cool stuff. All right, 
+let's get into it. For context, I have not made videos in a minute, so I'm a little rusty. This is 
+like my 15th attempt at starting this, but we're going to roll with it. All right, first one. What 
+is your process system with split payments? And how do you sort track everything and make sure 
+it's paid up? What kind of consequences? Uh, and timeline if not. All right, so first things 
+first, split payments versus PIFF. So PIFF, PIF stands for paid in full. Let's use 
+an example here of $8,000 PIFF. Okay, so you're selling your customer $8,000 for access 
+to the thing or for coaching with you for a year or for whatever. A lot of the time what people 
+will do is internal payment plans. So split payments that equal out to an amount that's more. 
+Okay? So like 10,000 for pay of 2500. Now people do this differently where you have four payments 
+of 2500. That's either the month 1 2 3 4 or that is depending if it's over a year they'll sometimes 
+do it quarterly. So it's like 2500 to start 2500 2500 every quarter. works every 3 months instead. 
+Um, other ways that people will do this is split payments out through external financing plans. I 
+have a whole video where I talk about this on like the different cash troughs and like when certain 
+people need to get paid, when you collect cash, but all to say when you use external financing 
+a lot of the time you'll get that same number just minus the fee and you'll get that upfront and 
+they will handle the payments to a CLA and a firm, a split, whoever and you get a portion of 
+that PIFF up front. helps with cash flow, helps you get more cash collected up front, XYZ. 
+So, how do we track everything? So, proactively, what you can do is make sure you have any of these 
+things set up correctly. So, your math is correct is a big one. I see people all the time who are 
+like, "Oh, it's 5K for the year or five payments of 1,000." And it's like, okay, well, there's 
+no incentivizing someone to piff. So, why would someone do that? Um, another way that a lot of 
+people can do this is by setting up basically what's called like we call them deferred PIFFs. So 
+pushing the cash to the first 30 days. So you can incentivize sales reps, you can incentivize CS, 
+fulfillment, whoever to push that those payments upfront. So someone still joins with a paid plan. 
+Let's say they join with one of those 2500s, but you incentivize XYZ person. And inside that first 
+30 days, you're like, "Hey, are you loving the program? Okay, well you agree to 10K in payments. 
+I can honor that the PIFF pricing of 8K." So you just pay the spread between the 2500 and 8K if you 
+do it in that first 30 days because you're loving it so much. So depending on where your business 
+lives or how you want to control the cash flow, how much certainty around you want around the 
+cash you've collected, you can do that as well. So that's kind of the proactive side of things is 
+just doing that um and pushing the cash forward as much as possible, incentivizing it in the right 
+ways, uh including certain things when you do uh piff. But tracking for everything can be done 
+in a million places. So, the simplest answer is you set this up inside of a subscription tracking 
+platform, meaning uh like Stripe has this, [ __ ] has this or you can put it in your CRM or a sheet 
+or whatever, I mean your HubSpot table, anywhere um that you want to track this of when the next 
+payments are. So, once you have all of that set, those are going to automatically attempt to bill. 
+Now, on the reactive side of that and tracking of that, if it fails, what are your notification 
+sets for failed payments? Do they fire into a Slack channel? Do you get an email? what to know 
+that that payment did not go through and does that go to you and to the customer. Um, and then 
+what kind of consequences? Uh, we don't really have like I I've heard of people go to like small 
+claims court. Um, just do a lot of stuff. That's just not our in our ethos and how we operate. Um, 
+it's obviously not great and that's why we try and push as much cash forward as possible. So, for 
+timeline, it's like if they're not responding, that's a lot different than if like they're 
+gathering the cash or trying to figure it out for a couple days or something like you know, we're a 
+little more lenient with that. But if they're like full non-responding, depending if you're selling 
+info, you can kick them out of the community, the course, the co whatever. If you have coaching, 
+you stop fulfilling on the coaching. So now you don't have the cost to fulfill on the coach. Like 
+ideally, you would have gotten the the, you know, revenue or the cash collected as well as, you 
+know, fulfilled on the contract. But if they're not on their end, you're not on your end. So you 
+then reduce the cost that you would have had. Um, but yeah, that's essentially it. So, proactive 
+tracking there and then reactive, making sure that you're following up, trying to update card on 
+file, do you need to switch your payment method, XYZ. Um, but making sure you have both of those 
+so you know when the payments are when you're starting to do that. We're actually doing a whole 
+overhaul right now of this in like terms of the like a custom data solution in order to track 
+this. Um, because ours has been kind of messy. Ours ours have always been on subscription 
+like platforms auto, but when you start doing like custom payments on the front and then the 
+schedule isn't set correctly. Um, but more so just on the overall data tracking. So, I think 
+I just spent five minutes talking about that, but it's important. Um, all right, Ryan, you 
+mentioned number two. Hey, Ryan, you mentioned you knew some guys who built out some theme pages. 
+Yes. And made some serious money doing so. Um, I don't really personally know these guys, but 
+I've heard great things. Um, I run a sports page on Instagram and Tik Tok that has been growing 
+extremely quickly. 230,000 combined followers in the last eight months. I want to turn this into 
+a real business. Heck yeah. Uh, I asked a similar question in the past and you said I should lean 
+into building out pages instead of selling info and creating competition for myself. Agreed. I 
+asked Cardinal Mason the same question. Good, dude. Uh, and he said, "Identical thing." Even 
+better, dude. Uh, I think the best way to scale this is by hiring VAS and giving them my SOPs 
+to grow multiple pages at once. I've made some decent money selling one-off promos in the past, 
+but when I was much smaller, and I think the real money is in closing big deals on a monthly basis 
+with larger brands. Do you think hiring VAS and growing multiple pages simultaneously and then 
+monetizing by closing deals with large brands by showing them I own a network of accounts 
+is the best way to reach the scale and turn into a real business? Also, to the best of your 
+knowledge, does this strategy align with what you guys do or did they run a different model? 
+Thank you so much for doing this. Uh doing this, man. Um all right, so I don't like personally know 
+these guys uh like super well, but I've heard this is fantastic. And I also know other people in 
+the space um that do it. So, shout out to them because this is like a a great business model. Um, 
+so you just essentially own the traffic, right? So like instead of having to pay Meta in order 
+to, you know, pay for a click, you already own the audience. Um, so it's same way if you own an 
+email list, the same way if you own a community, the same way if you own customers because you paid 
+for them and now they're customers. Like you just, you just have an audience that follows you in a 
+specific niche around a specific thing. Now, to get around the business model, I'm not extremely 
+clear. I had a video with Orin John on here and he talks about it from the influencer perspective and 
+how much he gets paid on certain deals, which is like crazy numbers. Um, so it's the same idea and 
+the same model where he has a personality brand around a specific niche of things and content that 
+businesses are willing to pay to be in front of. So whether that is per post, whether that is 
+percentage rev share, whatever that is, the simplest example is you have an audience that's 
+all around XYZ niche of software thing. you have an affiliate link in your bio and when people join 
+that software you get a commission on that that is performance version versus a software reaches out 
+to you and will pay you five grand to make a post. So, in sports, um, I'm blanking on the name of 
+the guys that sold theirs, but one sold for like 50 million plus. And to my understanding, it was 
+not about being multiple pages, uh, simultaneously because really what it's about is I mean, I'm 
+sure there's some sort of like risk mitigation of it being on one account versus multiple. Um, but 
+the network of accounts is like a different model, especially if you're in different niches than 
+the idea of one large account with one large brand name and like, you know, household name for 
+basketball or household name for whatever. I mean there's like uh Friday beers or you know bar stool 
+or whoever are examples of this where they have XYZ niche and of course they have kind of like 
+subniches within there or like cross um but it's the brand itself not necessarily the idea that 
+you just have a ton of them and network. It's like they built up the core thing. So I think more so 
+is there a model where you can continue to do it on this a sports page that's niche within there? 
+I and I don't know necessarily know the answer to that. like can you grow this to you're the 
+dominant one that has 10 million followers. Like how deep can you take one specific thing more so 
+than can I have one that's over here in this niche and one that's in a business niche and one that's 
+in a uh personal finance niche and one that's in a um you know sports or whatever. So like I think in 
+my opinion it would be go deeper on the main thing because the more reach you have in one specific 
+vertical ICP the more you understand them the more all of that kind of stuff works. So in order 
+to grow that I would assume it's doing more of the same andor finding more sources in order to 
+grow it. And then the other side of it is more ways to monetize it. So is it by post? Is it by 
+partnership? Is it by revshare? Is it by you know moving them to from one audience type from social 
+following to uh owned you know owned audience which is email SMS all these other verticals in 
+which you can communicate and have them as your audience. Can it grow into a community that 
+you have that's a free community on school or a W paid group or this or that, right? Like where 
+how does the ecosystem get bigger? It's like how do you increase the traffic flow which is like 
+growing the page and the audience there and then how can you diversify them into where else you 
+can communicate with them and own the audience in the case that your page goes down or something 
+and then how can you monetize them which is like the different layers of monetization through XYZ 
+XYZ and then you know the monetization of the audience as well as the reach all the things. So 
+hopefully that makes sense. Um, but I think that's more so the strategy than going wide and having 
+a bunch of different ones unless you're going for like the network play, which is like, you know, 
+people already do this and buy up accounts and own tons of them. Um, so yeah. Next one. I am a 
+part I'm part of a career transformation offer. I don't really know what that means. Uh, how can we 
+get show rate up? I can help with that. Currently 40%. We have 15 intake questions. So, I think this 
+means like going from one career to another. Um, I don't necessarily specifically know the ICP, 
+but I guess that doesn't really matter. Uh, how can we get the show rate up? So, you're at 40%. 
+So, show rates are difficult. Um, show rates are think of let's we're going to use this probably a 
+lot today, but like how to think in extremes. So, how would what's the chances to get someone to 
+100% show up or what would you have to offer for someone 100% to show up for calls is like, 
+you know, if someone was going to be, you know, XYZ like bad thing if this amazing thing if you 
+were going to win the lottery only if you answered at this certain time or showed up to your call at 
+this time and you'd win a million dollars. 0% is you book a call and then on the thank you page you 
+get hammered with 40 texts that are about like you know moving across the country and you're trying 
+to you know win the million. It's like doesn't make sense, right? Like you you need consistency 
+continuity throughout that and a good enough offer for the reason that people want to show up. So 40% 
+is low but it's not like crazy low for where the market is currently at. So the functions of show 
+rate are essentially what is the framing someone is booking for. So you say you had 15 intake 
+questions and I assume what you're meaning by that is like the application prior to the booking. 
+So they're applying, they're then booking and then they're not showing or only 40% of them are 
+showing. So application is good because you have the opportunity to frame them and get them to want 
+to book, right? But you also then when in that process want them to want to show. They want to 
+have this conversation. They want to they want to join your program. They want to apply. They want 
+to go whatever the thing is. They want the results is really what they want. They want to lose 
+weight. they want to, you know, increase their income, they want to do whatever. So, it sounds 
+like the framing isn't is off. And then all the things you can do post booking is like educate. 
+So, Jeremy Hayes has tons of content on this. So, just go binge this. But everything on the thank 
+you page, everything in the communication, everything where you show up is now what is 
+critically important once they book. So, there are a lot of things you can do on the front and 
+like how you're framing it and why they're what the offer is and why they're even applying for a 
+call uh or applying and booking a call, whatever the framing is there. And the other side of it 
+is like think if you over here are like, "Oh, join this free thing and book this free call." 
+And then on the thank you page, they're like, you're like, "Hey, just so you know, there's a 5K 
+offer and this and this and this." Like no one's going to show for it because there's distance 
+because you didn't say it was expensive over here and you're saying it's expensive on the back. 
+So on the thank you page, you want the, you know, preframe video, which is like congratulations, 
+you know, affirmation. You took the first step. Here's what you need to know for the call. Show up 
+at this time. Make sure you do this. Make sure you do this. Here's how we're going to contact you. 
+we're going to reach out in other things on the page are like FAQs, testimonials, like FAQs, hear 
+what most people ask. And idea being if they want to consume information and if they have questions, 
+they can get them answered prior to the call. So it's not a bunch of Q&A on the call before the 
+close. It's more so just a close on the call, right? Is the goal. So FAQ, uh, testimonials 
+all throughout there, long form, different types because you don't necessarily know who the person 
+is. So this type of ICP if you have multiple, this type of ICP if you have a different one, right? 
+Um, going through that. And then uh Jeremy Haynes other stuff hammer them strategy. You're now going 
+to own their feed basically for the next 48 hours until their call or whenever that range is. So you 
+take all the people that have booked, put them in an audience, get them on Facebook, get them into 
+Meta, and you're hitting them with different long format, short form ads, testimonials, you 
+know, trust builders, uh different FAQs, all of that stuff on Meta or on wherever um prior 
+to them getting on the call. Um other things you can do is send emails that have more context and 
+information. And then the big ones are trying to contact them. So immediately speed to lead. 
+Someone books, fires into a Slack channel, setter calls them. Hey, reaching out. Just want 
+to confirm your call. This is the process we go. Whatever. Do you understand it's a Zoom call? Do 
+you understand that you booked 4 Eastern time, not central? Okay, cool. Um, here's what to expect. 
+Here's this and this. Build rapport. Cool. Now, three-way text with the lead, the setter, the 
+closer. Hey, just wanted just got off with so and so. Uh, they're super jazzed to talk. Here's 
+some context, whatever. And you drop them in a group chat. Now there's more closeness. they feel 
+the need to show up because of XYZ. Um, so there's a lot of levers you can pull. You just have to 
+think of this like levers. Everything in this is levers. Um, so yeah, framing, trust assets, stuff 
+in the back, question answers, um, all the all the fun. So I have a previous client from an agency 
+that wants to go to a sales coaching angle. He's opening a few gyms per year. He has a partner in 
+another business with tech company Money. Uh he's doing 15k a month inviting other gym owners to his 
+weekly sales trainings with his team from eight gym locations. No other programs or offers. Not 
+his focus right now. He's got he's got a lot going on but is a pusher. Should I offer to publish 
+him? He's great on camera doing organic but has no tech operator chops like I do. Uh yeah. I mean go 
+for it. Like this is a model. This is one of the feature or whatever. Yeah, I guess features of uh 
+gym launch at one point. They had like the sales squad thing. I I don't remember what they called 
+it, but you could basically like if you bought it, then your sales reps could all join the like mass 
+sales trainings that they would do. So, it was like a one to many situation where it was hosted 
+by um them and then you could join it. Um I think closers actually does another version of this. 
+Closers.io. Cole Gordon I think um does this. So, yeah, I mean definitely can do it. I don't really 
+necessarily know what the specific offer is and if someone's like busy like this like yeah, feel free 
+to offer to publish him. Um, I just don't know if someone who's got a lot going on and they're the 
+main fulfillment is going to want to do this. Uh, I mean, if they're already doing it, the 
+idea is that this is a one to many offer. So, if he has I don't know if she said this, but let's 
+say he had eight gym locations and all their staff on there and you got him to 80 and it was had the 
+same efficiency, like yeah, you can make a spread on getting him to 100K a month and you make, you 
+know, 50% of everything you bring in or whatever the math is. um to build a whole offer around him 
+and something different around him would take work from him as well. So just knowing that if he's 
+got a lot going on and it's not a priority to him um that it might not make sense but dependent 
+um you know there's a lot of things you kind of threw in here with business partners of tech 
+money and what he's making on the side seems like you know there's a lot going on. So yeah it 
+would definitely work. The question is just like is the partnership going to be good? Do they want 
+to do it? Does it make sense for them to do based on their other opportunities? Saw a tweet from 
+CCM. Love these guys. Uh that they did a video for you. Yes, they have been doing videos for 
+us. Uh I'm starting to work with a client that wants to run purely long form uh long form 
+for traffic to a VSSL book a call funnel, high ticket offer. How are you structuring 
+your long form content funnel? Video styles, topics to hit the right avatar. All right, so 
+this is perfect because these guys rockstar CCM um just asked me for a testimonial video. So I 
+will do it right here and clip this my guy. Uh and you can use this one. So we use them right 
+now because we have never focused on firstclick organic. We have not to say we never focus on it. 
+We've never successfully done it is probably a better way to say it. Like we have tried kind 
+of to do it. Um but we have always been a very paid heavy company and then our long form and our 
+organic exists in middle and bottom of funnel. It is used in resources. It is used for already to 
+send to leads. It is used as a web. Once people consume a piece of content they consume more 
+and basically just a massive consumption moat. Okay. So, that's how it's always been built. 
+We've never never directly optimized for like the craziest, you know, first click and all 
+the YouTube first organic, all of that. So, we are attempting to do that and we are paying 
+these guys to do it. They're doing about five, I think it's four or five videos a month for 
+us right now. Um, they are outliers. They are standing out as outliers. It is like you can 
+directly see which ones they're making. They are doing literally everything. We're just filming. 
+So, they are like doing ideation. They're coming up with titles. They're coming up with scripting. 
+They are then giving it to us and we are filming. So, we're doing this one and then they are doing 
+um all the post post production edits. They are making the thumbnails. They are posting them and 
+they're doing the titles and all that stuff. So, like it's everything outside of it but us 
+having to film it which is like fantastic. So, major pros and and kudos to them for that. Like 
+I should do that honestly for me but like I don't want to be all fancy and like show in that kind of 
+way and that's not really my goal of my content. Now, to speak in terms of data, and this is where 
+I was like, I'm going to be honest about this in a testimonial. Thus far, we're in one, today is 
+middle of September, early September. They have run for us since July. So, we've had all of July, 
+all of August. In that range, we did about 10 and a half million in cash collected, a little more 
+than that. Um, and on first click it has generated like 9K across a range that we did 10 and a half 
+million. But on last click it's like somewhere near like 100K. And if you look at total clicks 
+across that range, it's like 35 4,000 something like that on what is not a lot of organic view 
+like uh in in like terms of you know what you guys watch and all these crazy videos with tens of 
+thousands or hundreds and millions of views. Like ours is not like that. Um, so it actually has a 
+lot of clicks that are coming through. Now, it has not directly converted and done the exact thing 
+that I want it to do, which is like generate new audience and find cold audience that then comes 
+into our ecosystem through there. And at least again, my tracking is based off them clicking on a 
+link that has a tracking link on it either in the description or the links or the comments. Um, 
+so overall, extremely happy with the guys. Um, I love the idea. I think everyone should do long 
+form organic. I think it builds trust. It has consumption. um their stuff is really good. 
+But in terms of like has it been the direct attribution for first click, we also run so many 
+ads. We al also already exist in this audience. We also have been doing it for years. So like it's 
+a little bit of a different game. Um but yeah, so that is my overall experience. They're great. 
+I'm just excited for when first click is like millions of dollars, not when it's like not 
+that big of a needle mover, but I believe we can get there. So now, how are we running to 
+it? So initially we had it as two links. Um, so we were running to a VSSL opt-in, the core 
+VSSL opt-in funnel and then we were running to a low ticket offer. So we had two links. It was 
+basically like get this or get this. Um, it does get a bunch of low ticket sales. Uh, they have not 
+directly ascended more than the others um based on quick tracking um because we can see which ones, 
+you know, ascend up in that in that um tracker I was just talking about. But we did remove the 
+opt-in one about a month and a half ago, a month ago to go direct to a DTA instead of an opt-in 
+with the idea that they just consumed XYZ amount of content. They already have the consumption. 
+They're going directly to basically apply, right? They're going directly to do that. So to 
+gate them back to Jeremy Haynes, like you if you use optin pages, people hate you hate money. But 
+it's more so about the intent. So, if you don't if someone already has consumed x amount of content, 
+is ready to apply and goes to an opt-in page, they put in their name and email, then they get 
+redirected to a VSSL and it has no apply button and they're just kind of like lost in it and you 
+got the email so you can like re re, you know, re-engage and email and like bring them back in um 
+and new way to communicate with them, but it's not like right there. So, instead, we're using a DTA 
+page, which is headline, VSSL application button, so they can directly just apply, go from YouTube 
+video consumption to a direct page that can they can apply. Um but even that like it gets a ton 
+of clicks. We are getting more apps and bookings when we use that model versus the other. Um but 
+it has not directly backed out more. So not going to say that we've like crushed it with this but 
+video styles and topics. Yeah. Just right to the avatar. So this is not my lane. These guys are 
+doing a lot of this um kind of for us right now. Um but we're testing all kinds of stuff. So we're 
+testing just depends on the niche specific. But like you know is it day in the life versus like 
+deep uh detail versus um you know top five things versus this and this. So they're trying a bunch 
+of these different ones. Um, but yeah, these guys definitely know what they're talking about. So, 
+DM setting. I'm already at 20 minutes. Oops. Uh, DM setting and getting inbound prospects for a 
+client on X. 10 to 15% daily reply rate to the opener. How would you structure the process from 
+qualifying, providing value, proof, pitching, and making sure he's financially qualified before 
+booking a call? Um, so this is more not I mean, we don't do like any of this. So, if you go to my 
+video I did with uh Jeremy Moser, he talks about this a lot and they're doing it on Instagram, but 
+like similar idea is you have them in the DMs. So, you're already doing the getting the 10 to 15% 
+response rate. Now, once you have them responded depending responding depending on what the opener 
+is. Yeah, it's conversational. So, it is back and forth. What are the biggest This is not my lane. 
+So, I'm like speaking out of my you know right now when I say this, but you're qualifying. You're 
+doing exactly what you're saying. You're providing value. You're qualifying. You're pro like they're 
+already now looking at your page. Does the page have all the things to provide a moat to to have 
+trust build assets on them. Can they enter in now a link in your bio that points them to this and 
+this? Is your bio directly headline calling out who you help and what you help them with that is 
+a direct problem these people have? Um can they, you know, scroll through the feed and you're just 
+providing case studies and helpful things and XYZ. Um like does that all that exist? One. Then 
+qualifying them. are they a person that actually needs this thing that you're providing them? 
+Do they want this result? Um being able to have simple assets you can send them that do provide 
+value to them and or provide proof to them and then you're not really pitching at that point. 
+You're pushing them to you know now you kind of have the qualifi qualified part um financially 
+qualified. I don't I don't know how people directly do this in DM. Um and then pushing them 
+to the app or the booking, right? So, all comes down to like if you have a good enough offer and 
+you're matched with an ICP that actually needs it, like it's a it's a no-brainer. It's just another 
+communication method. Um, there's someone else you can you can look up on YouTube that's going 
+to give you more valuable insights on this, like a Jeremy Moser or other info offer around 
+AI implementation in business. Your demo is for entrepreneurs. How would you leverage affiliate 
+and influencers to grow? uh low ticket offer for templates and courses uh sending up into 
+a high ticket coaching is assume what you mean by this. So an info offer that's around AI 
+implementation in your business. How would you lever affiliates and influencers to grow? Uh so 
+in general when you're targeting affiliates and influencers and you're going to the demo of entre 
+of entrepreneurs, you just need to find affiliates and influencers that have the audience of 
+entrepreneurs. It's like step one. Um, now it is what kind of content, what is the cost to create 
+the content or, you know, to post to have the distribution and can you do that as a percentage 
+in like an affiliate deal where they only get paid when you get paid as a percentage? Uh, or does it 
+have to be, you know, an influencer style thing where you pay 5K to get a post? Back to what I 
+was talking about earlier. Um, so you just have to know your math and your economics on what you're 
+willing to offer because, you know, you have to know what your LTV essentially is with this of 
+what you're willing to pay for a customer. So, if it's sending them to this low ticket, you know, 
+templates and course and it's a no-brainer and it costs a h 100red bucks and you're able to pay 50 
+or 100 or if you know what your ascension is into high ticket and you're able to pay, you know, 
+300 on that. You don't who knows uh what you're willing to but it's really what they're willing to 
+take as well like depending on who the affiliates and influencers are. Um, but yeah, I think that's 
+one way. And then the other thing is like right now you're just saying I want my traffic source to 
+be affiliates and influencers, which is good. It's a traffic source. Um, and people do part, you 
+know, I use the example on here, the guy that does over 100 million a year. They run no ads and 
+they just do partnerships and they're basically the backend of all these other businesses. Uh, 
+and they crush. So that is a traffic source, but you can also run paid to this and you can 
+also build organic content to drive sales for that. You can do a lot of other traffic sources 
+to to grow this because this is interesting. Um, we literally were sending one back and forth 
+in our like Instagram chat yesterday and it was a cool sales p it was a great ad. It was a 
+great like sales page that had a bunch of cool stuff on it and then it was a direct to cart 
+for like $1,800 and I was like, "Okay, well, I'm not buying that right now." But like depending 
+on if I would have gone through if there was some like low ticket version of it and then I entered 
+that and then there was some upgraded version like who knows what I would have bought. Um, but just 
+like hitting the cart or not even the cart, but like the buy button and it saying $1,800 over it, 
+like I was like, I'm not indoctrinated enough to know what this is to put $1,800. Um, but the idea 
+was the same thing. It was an info offer about how to apply AI into your business as an entrepreneur 
+and like how to leverage it as the owner. So, like they were spot on. I just wasn't ready for the 
+type of entry that they were trying to do. Um, and there was no opt or anything. So like now I just 
+they assume I get targeted retargeted but they can't email me or reach out or ascend or anything. 
+So good business though. Uh I help sports coaches sport coaches train athletes online and we're 
+doing a little over 100K a month. We've had tons of resistance on the front end and my hypothesis 
+is because the market isn't sold as a majority on the mechanism of online coaching. Tons of 
+resistance on the front end and my hypothesis is because sold on the mechanism of online coaching. 
+Okay, I'm sure there are other industries where there's a ton of skepticism around the model 
+itself, but I have tons of case studies and proof that the model works. There's a ton still tons of 
+resistance. We're currently selling info product for 5K with an upsell of 10 to 18K. I really 
+want to watch a done for you revshare portion of my business because there's so much resistance 
+to the model itself and five of my best clients 50 to 30k a month said they'd be down for 25 to 
+35. Help sports coaches train athletes online. Sports coaches train athletes. Okay. Um, I've been 
+thinking about pushing my focus to growth operator model and selling coaching as a program as an 
+afterthought because of the resistance to the offer I currently have. If I gave you control 
+of the business, what are you pushing done for you or done with you and why? Additionally, if you 
+went done with you, what conversion mechanism and why? All right. So, I'm not fully understanding 
+if I'm being honest. Um, I help sports coaches train athletes online. So, you help the actual 
+sports coach who runs a business. You're helping a It's like a bisop. You're helping these guys 
+train athletes online and your business is doing over 100K a month and you're helping people 
+who are doing 30 to 50k a month but are lower. So you are we've had tons of resistance 
+on the front end because of the market not wanting to be online coaches. So, you're 
+helping somebody who locally helps soccer players get better at their craft, and you're 
+trying to take them and bring them online. Um, all right. One, the model's proven. It works. I 
+know guys who do a million a month in this exact niche as the actual people who do it with the 
+client, not like with an actual like the person who's playing the sport. um and it is remote 
+and they have an in-person function on the very tail end if someone wants to, but almost 
+all of it is remote. So, the business model is proven and works. So, I don't know that that's 
+even true in terms of resistance um because you can prove that it's done in the marketplace. 
+Second, just to your like done for you or done with you approach. I mean, if you can with an easy 
+service delivery get 25 to 35% of their business and build a bunch of these up and just own the 
+network of them that do it with like a face, you're essentially just being like, like you 
+said, a growth operator and doing it there. So, essentially what you can do then is instead 
+have your coaching program as an info. So, it's like the it's the tranches of uh Ascension. 
+It's like you can sell a 2K course that's just like an info product that's like here's how I run 
+all my stuff and here's my systems and here's the login access and like go have fun. Do you want me 
+to help you? And if you help me and you done done with you it's 10k instead of 2k or 5k or whatever. 
+And then if you want me to just do it for you then it's 50k or it's revshare or it's whatever like 
+the monetization amount or type can change as the implementation changes but you can still have 
+your thing. So, we're talking about this at uh Daniel was actually talking about this, Fosio, 
+about how you sell like the done for you result as the way you get people in the door because 
+it is an option. So, it's like the best offer you can make and that's what you run in your ads 
+and that's what's public. And it was like learn how you can do this, this, and this or learn for 
+you and it'll be completely hands-off and all the amazing dream scenario. They come in and when they 
+actually get to the point of the sales call, it's like we have these different options. A lot of 
+people just want to like try and do it themselves and they'll whatever. This is like a 2K offer. A 
+lot of most of them we come in here and we just do it with you where we help you through this and 
+this group coaching and do it whatever where we're kind of like hands-on. Um, and if really you just 
+kind of want to be more or less handsoff and just be the face, then for 25 to 35% of your rev, we'll 
+just build this thing around you. And it's like, okay, so you stayed true to your promise of what 
+your offer was, was we will just do this for you, but it's like the most expensive ideally way to 
+do it, or we have this option, which most people choose, which is like our flagship middle. Or if 
+you don't even want help at all and you think you can do this on your own, here are the tools and 
+secrets and the way to do it. It's just two grand and you always have a version that you can sell. 
+So, I hope that helps. Um, I hope that helps. But I would almost always get these people on the 
+phone. So, I would do a DTA funnel, which is the headline VSSL application, and then get them 
+on the phone because when they're on the phone, you can sell them these different things versus 
+like having three modules on a page that's like this option, this option, or this option. They 
+click on it and they look around. They're like, I don't really know which one's for me. and 
+they have like one question and they bounce versus like you're on the phone, it's like you 
+change the price from 10K to 5K in two seconds or you can add this other thing or you can like 
+get market research on what people actually want and need. Um, which you already kind of have. But 
+yeah, so hopefully that's helpful. I'm currently running a VSSL plus masterclass plus phone call 
+funnel where we help women lose weight. H now I'm thinking of going more niche with my avatar. For 
+example, women over 40 who want to lose 20K. Uh, the question is, should I build a completely 
+new funnel for each avatar, change the all VSSL, or should I stay broad and keep one funnel without 
+specifying age? Um, dude, this market's huge. So, okay, let's use another example just for sport. 
+Uh, let's say men over 50. Okay, we help men over 50 get XYZ result, which is like get toned or like 
+get back to XYZ or be as you know the same way you were when you were 30 or do like whatever the 
+thing is. Okay, those markets are still massive. So, when you're saying like build a new funnel 
+for each avatar, like you only need one avatar because you you don't like unless you're doing 
+millions a month or more or even more than that, like your one avatar is fine. The messaging you 
+use with the avatar a little different, but again, millions a month. So, like you don't need to 
+think about that. So, you just need to pick one and be the best at it. So if it's like you can 
+always change this later, you can expand it later, you can go from here and go out. You can have a 
+VSSL that splits into two and now instantly you can have double the market size where they choose 
+their own adventure on interactive. So it's like I'm a male, it's over 50 or I'm a male, it's under 
+50 and the under 50 takes them in this track and the over 50 takes them in this track and like 
+that's your new idea. Like now you can capture all males and all males is like four billion people 
+and then take it to English speaking only that's like this or whatever, right? So like the market's 
+huge. So like you just need to own one niche. So I hope that answers. But just like pick an avatar, 
+go hammer on it. Put that number everywhere. Put the results everywhere and just stay true to 
+it and don't be the we help everyone model for direct response because that's like the whole 
+point. I'm speaking to an expert authority in the fitness niche. You guys crack me up. Uh currently 
+about building and publishing an offer with them. The offer I'm talking about doing is a 12-month 
+high ticket program with onetoone combined with video libraries of workouts and programs built 
+around their IP community and town hall sessions about health, nutrition, lifestyle. The experts 
+highly qualified. If you had to start it over and rebuild everything you know now, what 
+would you advise in terms of delivery offer structure? Don't worry about competition. Thank 
+you. Uh they're not female and it wouldn't be a direct competitor. Got it. Thank you for 
+the clarification. Um what's the question? If you had to start it over and rebuild knowing 
+what you know now, how would you advise in terms of delivery and offer structure? All right, this 
+is very dependent on who the actual avatar is, who the ICP, the niche, all those things because 
+I was talking to someone, this is a very this is a great one actually. So I was talking to someone 
+that sells a function of a bisop thing. Okay, so they are basically like helping, let's call 
+it barbers get to whatever revenue number, get to 50k a month, doing whatever. Okay, let's just 
+say now they were structuring it as a 12-month program because they heard that we do it one or 
+that someone else does one or whatever and it's 12 month now high ticket program. Does 12 months seem 
+like a short amount of time to get your goal? No, it does not. the person literally if they could 
+would click a red button and they would get the exact result tomorrow. So why are you extending 
+it to a year? The only time in my like peanut brain right now that it makes sense to do that is 
+if it's literally not possible to do it. And even then you don't really want to frame it necessarily 
+as that. So if it can take them six months or three months, do that. They want the result. So 
+if it's in 90 days that you can help them get the result. And this is where it's like actually 
+matters because when you're working with someone's body, you're doing this like what is realistic for 
+the time frame but also still a good offer because if it does take six months like we know like it 
+takes years potentially to build like this dream body but to get XYZ result of thing it could be 90 
+days it could be six months it could be whatever is like the most realistic doesn't sound like you 
+know think of the extremes I said this earlier but like it'll take 10 years to get your dream body so 
+we are selling a 10-year program and it's $50,000 like no versus a one-year okay we're getting 
+closer Is there a 16w week? Is there a six-month? Is there like something else that's in the median? 
+Like we're talking about doing this right now, for example. But having something that's more 
+like entry friendly and then once they're in and they understand this and this, there's other 
+things to sell them. Um, but I do like going high ticket because you do not want to compete with a 
+$7 a month like AI app. You don't want to do that. So live in the land of having those things for 
+the offer structure. Now the other side of this is understanding the cost of delivery in order 
+to fulfill on something like this. So let's use simple math. But let's say just for simple 
+math, say it costs 10 grand for the year. Okay, in a version like this, when you have a onetoone 
+coach and you have this, you now pay a coach for a year. Okay, so what does the coach cost? How 
+many clients does a coach need in order to have an XYZ income that is feasible or so they can be 
+full-time or anything? Okay, is that 60 grand? Is that 90 grand? Is that somewhere in between? 
+Like where is that land? Is that 150 because you're doing something like I don't I you know I 
+don't know what the offer is or what the direct um thing you're helping with. But let's say let's say 
+it's a,000 bucks. Okay. Or let's go crazy. Let's say it's like 3,000 bucks. So if it's 3,000 bucks 
+and 10K, okay, that's 30% of what you collected. Now depending if you're doing ads, that's another 
+30%. If you have like a 3x rorowazish, let's say, so now you're at six. Let's say you have a 
+sales team that's 10%. Now you're at 70%. Right? So you're already down to 30% margin on 
+that before you have overhead before you have all these other things that stack. Now the levers you 
+have are playing with your acquisition your which is like a function of marketing and sales right 
+so the percents that live there um and then your fulfillment costs and then like your overhead and 
+your other stuff right so just those quickly as a thing acquisition how are you going to acquire 
+them that you have an xyz cost to acquire and the other one when you're asking about delivery and 
+offer is the type of fulfillment and what it costs to pay the coach for that term and in this example 
+we use 3K, but how would you get it to one or 500 or 100 but still get really quality service? So, 
+this is where you have different levels of um like you said pre-called trainings where you have group 
+coaching where you have um software deliverables or AI or like those are things that are reducing 
+the burden of what it costs to fulfill on the product and there's a bunch of other levers you 
+can pull on that. Um but that's how you have to kind of think about it. So, if I had to start over 
+knowing what I know now, I would align it with what's realistic for the timeline, but don't make 
+it seem like it's this crazy far thing. And when you also say it's 12 months, you now uh attach the 
+cost of that to fulfill on it. Um, so you likely can shorten it. Um, you also can play with some of 
+the levers on the deliverables in order to bring your cost down on what it cost to fulfill on it, 
+but still provide really high quality service. Um, but you can offer things that are free, you can 
+offer partnership things, you can offer all these other things um that can make it worth it and 
+more and increase the value that doesn't cost you dollars. Um, and yeah, so I would think of 
+it like that. Um, offer creation structure plus delivery. I think that's this I assume that's 
+the same person asking the same question. So, um, how did we fail the second launch? Uh, and 
+how to scale the multi6 figs off every launch. Basically, we launched a new a brand new offer 
+and it was sixmonth cohort-based program online swimming offer priced at 600. Cool. Swimming like 
+swimming swimming. Uh first launch went well. We had $50,000 in cash collected in seven days. 
+Nice. Two months later, we launched it again because you did a si Wait a minute. So, you 
+did a six-month cohort and then you locked it down and you're fulfilling on this one. You're two 
+months into fulfillment on this one. And then you ran it again and only did 20K. Traffic sources, 
+Instagram acquisition sources, weight list funnel. 600 being direct to cart, no sales call. Hype was 
+insane for launch one. We didn't do as well for two. Less Instagram content was pushed out too, 
+but didn't expect a massive drop from 50 to 20K from launches. How would you improve and scale to 
+six figs? So yeah, you have just a you just have a traffic a consistency of traffic issue. So you 
+had an audience of let's use a hundred people that were all jammed and excited about this thing that 
+you had never offered. Like Horoszi just did his massive launch. He had however many hundreds of 
+thousands of people that are like super fans and were like waiting and he had never sold anything 
+other than a couple books and they're like all jazzed and it's like this pool of all these people 
+and then you offer them something and they're all going to buy or a higher percentage a large 
+percentage of them is going to buy and then if he was to do that again in two months it is going 
+to be less of those people that are going to buy. Just like general rule, not saying he him exact, 
+let's just say, but like same audience pool, same audience pool again. Like first off, a bunch 
+of them already bought a thing or the thing. Now, if you're selling the same thing again, it's 
+like all these people already saw this. Some of them already bought it. Basically, the ones who 
+just did were the ones who saw it the first time or either someone brand new or someone who saw it 
+last time and didn't get to get in and was like, "Okay, cool. I'll do I'll do it this time." But 
+like unless your audience is growing and or you have new which is like paid media for example 
+is new cold traffic or partner or whatever all the different types of traffic source unless your 
+audience is growing you are not going to be able to convert them just over and over right it's a 
+it's getting smaller it's getting less effective you're also hitting them less times which doesn't 
+make any sense um I mean it does make sense if you don't want to like hammer the audience because 
+you're trying to use it for other things but like you that's to be expected everything here 
+that happened is to be expected. So, weight list funnels are great. Um, I've heard great things. 
+We've never run one. I know somebody who's in a similar space to like in like a fitness niche that 
+does it that does really well uh with weightless funnels and cohort based and delivery gets to 
+be is is less expensive because they can do it in batches instead of evergreens. So, like all the 
+power like rock on with that. Um, you just need a better acquisition or like a traffic source that's 
+more consistent. So, getting better at meta, getting better at whatever. Um, and then you can 
+run like hybrid weight list too. So like you can run paid to a weight list and then there's ways 
+I have seen and heard that people then do sales calls. I we don't run any of these so I'm not 
+sure how that actually works but like basically someone's on the wait list they're doing outbound 
+dials to them and then or having them fill out some application post weight list confirmation 
+that's like why should you be accepted and then the ones that have the highest you know intent you 
+dial and you're like hey a spot actually opened up and you can join now but that then breaks your 
+cohort-based fulfillment. So, and I think probably like I don't even know FTC I think if you say 
+this that you know there's two spots and there's actually 4,000 spots. Like I don't know how that 
+any of that works. Knock on everything. That's not my game. But um yeah, this is all to be expected. 
+So you just need consistency around traffic source and or an evergreen source of joining something. 
+Ideally that's some function uh recurring or has a backend. So, what is your technical setup to tie 
+sales to a winning ad? I'm trying to figure out a better system to be able to attribute sales to a 
+specific ad a lead came in on. Um, all right. So, depending on how much you do, there's like there's 
+multi-touch. So, the simple answer is get a just get a high-risisk account. Super simple answer. 
+So, shout out those guys. Um, that's basically the answer. So, that's one way. The what Hyros is 
+essentially doing is it's storing the clicks and it's storing where they came from. So if you click 
+on an ad that came from Sorry, I'm getting away from the mic. I was getting jazzy. Um but if you 
+have an ad and then you append XYZ parameter on it and someone clicks to your page, you can track 
+that that person came to your page from insert here channel and ad and whatever. So it's like 
+meta ad one ad set or campaign ads set ad and like all those things are in there and it's like hey 
+someone just clicked on your page and did this. Now that person then fills out a lead or becomes a 
+lead, fills out an application, books a call, buys that ad did it. Now, where it starts to get like 
+crazy is when they click on that ad and they don't opt in, but then they click on a Google instead 
+of Meta and then they opt in that time and then they're in your email sequences and they click on 
+an email and then they apply and book a call and then before they book a call they click on three 
+more ads because you're hitting them with hammer them campaigns that are all different and then 
+they purchase. Which one got the purchase? Right? And it's like that's why inside an high-risisk 
+account or whatever or any of these attribution models, you're going to have last click, first 
+click, scientific, scientific with 30-day, 60-day, 90day, whatever the ranges are. I think it's 30, 
+14, something. And uh scientific is meaning which one was the first click within that range because 
+you're trying to figure out which one actually like brought them into your ecosystem, not which 
+one like was the last one they saw and clicked. But there's cases that it makes sense for last 
+click. there's cases it makes sense to see which ones of the emails are driving the most clicks or 
+the most action events like you can look at it in all these different views all when it's stored in 
+one location. So what Hyros does is it just takes all that stuff and just stores it all for the 
+person and like fingerprints and grabs all that and they also then feed that back to the pixel. Uh 
+we do not use it for training the pixel but like that's a separate conversation that's completely 
+unnecessary for up until XYZ number. Um, so yeah, so it'll show you which ads, it'll show you 
+which ads set. It'll show you all that. Uh, and or you could store this on your own server 
+and have your own custom data lake or your own CRM that stores all these things. But it just 
+gets very difficult to see it inside ad manager to feed it back correctly into what pixels. um 
+to see the viewer of what they clicked on when and like which one in the attribution models and 
+then overlay those on top of each other because like if you store all your own server data, it's 
+like you're looking one-on-one at like what the traffic journey or or or user journey was um that 
+they went through and like you want to be able to look at like meta and look at the viewer and be 
+like, "Okay, on Scientific 30, here's what meta says." And then you can go over to Google and be 
+like, "On Scientific 30, here's what Google says." and they're saying they're pulling from the same 
+data versus if you're like trying to store it on your own and then try and like match them back. 
+Just no. So, very quick answer. Hyros Alex Becker, what up? So, next one. How do you research and 
+test different emotions for your ICP? For example, your ICP may be rather broad, like adult 65 plus, 
+but how do you dig even deeper into picking the emotions or state of mind that push them to make 
+a purchase or sign up? How do you make how do you dive deeper and how do you research and test 
+different emotions? You run different tests. You have different ads and different angles and they 
+tie to different pages that generally would have different angles on them as well and you lean into 
+one and you test that and then you test another one. Um, another a really good one is I don't know 
+what I remember calling it, but it's like three three and a half hour video with uh at you know 
+buyer of media. I believe his name is at buyer of media now or alchemist or whatever. He got his 
+ex taken down but he's on X and he shares a ton of stuff but he went so deep into this into all 
+of the copywriting and psychology and everything behind this. Um, but that's the simple answer 
+is you're just going to test them with different very front-end things and which ones have higher 
+click-through rates and which ones have higher cost per or lower cost per click. And ideally, 
+you can then bridge that back and then like, you know, get optins on different headlines and 
+see which ones pull through. But in the end, the real answer is like if you're in a full-fledged 
+do this, it's not about just the click-through rate. It's not just about the cost per click. 
+It's about what the actual cost per purchase is or what the action you're targeting. So, if it's 
+for bookings or sales or whatever, like which one is actually bringing in someone who's a buyer 
+more so than, you know, win the free vacation, you have a crazy high, you know, CTR and low cost 
+per click, but it's not an actual representation of your offer or what's really going to convert 
+them. So, doing it in a way that actually makes sense where you're really like every time you're 
+testing these different emotions, they're tying to the core thing is the one thing. Um, and then I 
+hear everyone just uses Claude now. I hear Claude is like the number one copyrightiting goat for 
+helping with this and pulling from all the Reddit threads and pulling from comments on, you know, 
+reviews on product pages on Amazon on what people who have XYZ problem, what their actual problems 
+are, what they're seeing, what words they use, all that kind of stuff. Um, but yeah, Jason Katasi, 
+what a legend. Copyrightiting for paper call. Oh, there's a question for his call. Sorry guys, 
+I didn't see this until, you know, after the fact. I run insurance, paper, call, auto, life, 
+mortgage. I'm finding it super hard to make emotional stories that convert into policy. I can 
+easily get a 50 to 60% hook rate with four to 7% link clickthrough rate. Good. Um, but I struggle 
+at making the viewer emotionally invested into the problem and solution. For the stuff I run, I can't 
+run free or government angles, unfortunately. What is your advice on how I can make these emotional 
+stories that sell something super boring like insurance or at least make them invested enough 
+to call and request a quote to see if it's a fit and have the sales agent convert them? Yeah. So, 
+like again, I'm not the person to answer this and I you clearly wanted me to ask Jason this. So, one 
+Jason would answer this if you asked him on X. So, ask him after this video. First of all, if 
+you're here 49 comment 49 if you actually just made it through me yapping for 49 minutes that I 
+don't even want to tell you what time it is. Um, ask Jason on X. Tag me and Jason and I'll make 
+sure that he sees it because I'm going to see him soon in person, too, and we'll get this 
+answered for you. But how I'm going to answer it is if you're getting great hook rates and 
+you're getting good link click-through rates, but you're having I you're saying you're 
+struggling at making them emotionally invested in the problem solution. I don't know 
+where you're feeling like that's the problem, but I assume it's because they're then not calling 
+and or not converting on the call, which is like a which is a completely different issue. Um, 
+but if you're getting someone to get hooked, you're getting them to click now, they're landing 
+on your page and they're not booking a call, it's what occurs on the page. So, it's either not 
+in connection to it, like these are great stats, but that you're not in connection with it. It is 
+not a good offer. It is broken. it is whatever. So like that's step number one in my mind and again 
+I might not be the person to answer this for you but you're saying that convert into policy sales. 
+I just I don't know if you're meaning that they're not actually clicking to book to talk on the 
+phone which I think it is because at least make them invested enough to call. So it's just the 
+connection of how you're getting them to the page and then how the page is getting them to there 
+like copyrighting 101 like headline sells the sub headline subline sells the first paragraph 
+whatever down right. Um so you just it's just the page based on my simpleton brain. So, I might 
+be wrong in this, so tag me, but that's about as simple as it is. So, making sure the continuity 
+is there, making sure that it sells it. I mean, I've helped lead genen guys that have the simplest 
+page you've ever seen with like an emotional headline and a graphic and or like a calculator 
+that's a graphic, not even an actual calculator, and a button. And all of them are like clickable 
+to the call and like they crush and do hundreds of thousands of dollars a day. So, that's 
+the gist, but that's what I got today. Uh, all the past videos are here. I did 120 days 
+straight of these, but if you made it this long, you probably already know that. But that's what I 
+got. Did whatever 10 and a half or something like that over the last two months. It was actually 
+more than that. Um, we won the bet. That was fun. Um, and yeah, that's what I got. I'm going to 
+get back into making these. Uh, and I'm actually going to come up with some like good ones to 
+build as like full walkthroughs and flowcharts and fun things. And I'm going to like every info 
+coaching event there is uh over the next quarter um or like three months. So talk to you guys soon. 
+You're great. Hit me on X. I'm almost at 10K as this is recorded. It's like 9.9K or something like 
+that. So you guys are great and I appreciate all of the support and kindness you throw. So talk 
+to you guys soon. Hopefully this was valuable.

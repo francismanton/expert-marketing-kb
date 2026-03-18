@@ -1,0 +1,916 @@
+TITLE: Inside Whop: Road to $100B
+URL: https://www.youtube.com/watch?v=c_-xCj_RiCM
+VIEWS: 2655 | DURATION: 01:00:47
+================================================================================
+
+What's up, guys? We are back and we've
+got Hunter from [ __ ] Hunter, >> what's good, guys? I'm good. How are
+you? >> We're live on X. We're live on X as
+well. So, this should be a double whammy. But yeah, kick it off. So,
+everyone knows you all over X. Everyone knows you in the info coaching land, but
+those who are not in info coaching land, how would you describe your current
+setup, what you do, where you're at? >> Yeah, I would. So, I work at WAP. So,
+being here for about four years now, so I'm 23. uh somehow ended up here at at
+19 and somehow ended up, you know, started in Australia and somehow in New
+York now. Um but I run our sales team. So I'm head of partnerships. I run our
+sales and account management team. And so um I pretty much oversee all customer
+acquisition, business acquisition, um and business retention for [ __ ] And if
+you don't know what [ __ ] is, it's a business models platform. So, um, we
+help coaches, agencies, physical products now, really all different types
+of businesses, um, run on the internet. >> Very cool. So, were you how early? Let's
+go OG [ __ ] and then we go to like current state, but I feel like a lot of people
+don't know the full the full arc of that. I had uh, I had
+>> Stephen Cam on and they kind of like rough talked about it, but not much.
+>> Yeah, I could I I'll probably be a little bit more specific than them
+because I think I have the liberty to do so. But um I guess it probably starts
+with how I got involved. But I guess before then um Cam and Steve and
+Sharkies, there's actually three founders of [ __ ] They were um really
+just like internet internet kids. So um they went from reselling shoes to and
+making a huge amount of money there to running like um offshore sports books to
+running like Yeah. Most people don't know that. and and running like you know
+all arbitrage of like crypto exchanges to essentially um Cameron ended up
+starting with Steve a sneakerbot like a sneaker bot where it's essentially what
+it does is you take a bunch of virtual credit cards you load it up on you know
+either a web app or or sometimes a desktop app you put plug a license key
+in and essentially auto runs all of those cards on like a Supreme or like a
+Shopify store or Nike to essentially buy out all the inventory so you could
+resell it later. Um, and they started doing that early on and then eventually
+um, they moved into, hey, we're making a ton of money with, you know, our, you
+know, uh, sneaker bot. Why can't we work with other sneaker botterers to be able
+to sell the license keys for them? So, what really started off as a as a
+license key rental marketplace where you, for example, you're you're super
+into sneakers. You know that the new Travis are going to drop. you're going
+to rent, you know, this specific sneaker bot to make sure you get those Travis,
+but you don't need that sneaker bot for more than a day. So, you're only going
+to rent it for a period of time. And so, that's what [ __ ] started as. Um, and then
+eventually over time, those sneaker botters and those developers who are
+selling the software were like, "Hey, we need a community associated with this to
+teach all of these new renters of these bots how to actually use the bot and how
+to actually put it to work." And so really we Who as a company, this is
+predating me, started off as first a license key rental marketplace and then
+slowly built out a Discord integration um to essentially pay wall um those
+sneaker bots with the community. And so where I got involved was I was when I
+was 19 years old, I was studying to do um a bachelor of engineering and I had
+no money. I was I was living on government funding. Um, somehow my dad
+ended up in Romania, parents split, whatever, that whole shebang and I
+didn't have any cash and so I was on a scholarship at university and I was
+living on the equivalent of like social security. Um, and I, this is full circle
+now. I somehow got into stock trading and the first two stocks I bought was
+Afterpay and Zip, which are both two Australian companies that start off as
+companies, right? Um, and I ended up making like an invest a stock
+investments group. And so I took all these super smart guys from university
+and I was like, "Hey, I really need to make money. Can you help me figure out
+how to do this?" And so I started making a group there. And eventually I fell
+into crypto. And so that's how I really got my first internet money start was I
+started making a ton of money on Axe Infinity, which was like a play to earn
+like crypto currency. Like you play the game, you make money. And so I first
+taste of internet money was I made it essentially turned like my money into
+like 50 grand on that. So I got in really early. Um and then I started [ __ ]
+posting about that online and eventually I lost launched an NFT project with some
+college friends and that did about like $3 million. We got really lucky and I
+continued to [ __ ] post online. Um and eventually I I blew up on Twitter. So I
+I ended up getting like 80 to 100,000 followers on Twitter. Um, I got
+shadowbanned now, but it was at Grunk Wizard. Um, and I end up launching an
+agency around that. And [ __ ] coming full circle, back to what you asked, ended up
+being one of my clients cuz [ __ ] was gone went from sneaker belt Reynolds to
+Discord. And what was popping off at the time was NFT token gating at Discord
+where you can only get access to a Discord if you buy an NFT. And so I was
+living in Swiss I was doing the whole Dubai money Switzerland thing at the
+time. And like I lived in Dubai for a little bit and then I end up was was
+going Airbnb to Airbnb in Switzerland and [ __ ] was one of my clients um for it
+and so they were like hey why don't we hire you fulltime to run the NFT
+division of [ __ ] which is hilarious and so I came on probably like
+six to eight like actual full-time employee
+um and I really I really that's how I really started off. So, I know I'm
+rambling, but that's how I >> You're not rambling at all. Yeah. Okay.
+So, then did you start in this essential like role like or
+>> Yeah. So, I I started as like helping NFT projects essentially like [ __ ] out a
+product of like you verify your NFT, you get access. I started off as like
+getting NFT projects to do that, right? And um I was my role originally started
+off it was like really it was just like a bunch of like 20-year-old dudes just
+trying to trying to essentially figure out whatever the next internet trend is
+and and make make money from it you as a s as a software platform right so it was
+like okay sneaker bullets now it's like Discord you know paying for a Discord
+now it's okay getting NFT projects on Discord and it it was it was funny it's
+just like you you come in every day and it was just like EDM music blasting and
+and overcaffeinated and that's it. And it's just like six dudes. Um and um I
+started doing that and I started writing the what blog. So I was the first blog
+writer and I was doing that full-time and eventually Cameron we we we realized
+NFTTS weren't really going to work out and you know I was making you know
+around you know 150k to 200k some months like working with these create these NFT
+projects essentially doing their marketing and blowing blowing them up
+right. Um, and I was, it was, it was kind of came to a point where I was
+like, "Okay, I'm making a ton of money. This is really sick." Like, I'm 20 at
+the time, 19 at the time, but I I don't have any fulfillment at all. So, I end
+up going full-time to work for [ __ ] I end up shutting down my entire agency.
+Um, and that was just around the time that we started getting really involved
+in like Discord pay walls. And so it was it was I didn't I had no idea what co
+high ticket coaching or anything was. It's literally just like a sub for
+Discord. And I remember like I did a whole visa process what I was living in
+Mexico. I was living in Canada. Like I was I was I was working for 4 months on
+the like EST time zone in Australia just to stay online with Cameron as we were
+trying to figure out how to do you know these Discords. And I remember we were
+trying to do the TAM of like of of online communities and products and we
+landed at $15 million per month. That's the total TAM of every single business
+online making a paid community and course. We thought it was 15 million a
+month and that was 2 years ago. Um and so that's like I really started as like
+the first sales rep to go and sell all of these like online communities um to
+essentially join join our platform. Yeah. So when you guys started to move
+everyone over at that time, was it mainly it was people who had their own
+community because you didn't have your own communities at that time, right? So
+it was like >> Yeah.
+>> wherever there are communities hosted and you were just doing payments and
+like >> it was literally just it was literally
+just like a dashboard with affiliates and like a dispute fighter and it was a
+Discord integration like you get access to this Discord RO and it was really
+just payment links. And so we we were we were start we we had a couple
+competitors at the time. We end up buying um buying them out because we you
+know outgrew them. There was a YC backed company called hyper.co co and they were
+also doing like discord paywalling and this was really like co like stock
+trading was blowing up um reselling was blowing up sports betting was blowing up
+and that's why you probably see a lot of those businesses on [ __ ] today is because
+we started in Discord and that's what Discord was really servicing was those
+primary niches and so we were just really coming in saying hey you know you
+don't need to figure out how to connect Stripe to the Discord API to fulfill a
+role you can just use an out ofthebox like you know g community gated uh
+community gated product. >> Yeah, I had Luke on but that was how
+Luca and I first got connected and I was on like an NMI plus like API stack. We
+had this uh like ver I don't even think it was Versal back then. It was whatever
+hosting that would like have on page it would be like connected connected
+>> probably like some WordPress you know that you read.
+>> I got built for like 2K on Upwork. It would break every other day. It was
+great. >> Crazy, right? And so there was there was
+a huge market there. And like what we would essentially do is we would our
+strategy was going to really like competitive businesses or like going on
+Twitter. Like we didn't even know Instagram existed for like client
+acquisition and we would just go to the following of all these different Twitter
+accounts and we would you know look for there was like Launchpass, Upgrade Chat,
+Memberful, um Hyper those were like the main businesses and we would essentially
+just try and win business from those. And so for me, if I got a business doing
+30K a month from one of those platforms, I'd be like, "Oh my god, this person
+does $30,000 a month." And it was really easy to grow because all these
+businesses were using Stripe Standard like direct Stripe accounts and we could
+actually import all of their subscriptions into our at the time uh
+connect Stripe account. And so it was just a really good way of us to go from
+like when I first joined we were doing like 2 million a month in GMV like
+processing volume. That probably took us to like 20 million because we kind of
+like monopolized this like organic like no one was really using paid ads
+community like niche. >> So the next iteration was instore like
+uh hosting communities chat that whole functionality like product and
+>> no so we so we went from like Discord and then we got into Telegram payw walls
+um and then we got into courses. So we like our our platform is really just
+like a dashboard. That's what it started off with. It wasn't like some grand
+scheme like we're going to do this whole community thing. It start it was really
+just a dashboard with like affiliates um dispute fighter and like sort of plugins
+almost. And we we were just once again similar to how like people were having
+license keys and want a discord community. We started getting all these
+Discord businesses and Telegram businesses being like I have my Discord
+but I also have a Teachable and a Kajjabi. And I'm sure you saw that early
+on where it's just like you kind of peacemealed like your
+>> we still peacemail. Yeah. >> Right. And so we were like, "Okay, cool.
+We're just gonna hire a developer to build like a course hosting." And so [ __ ]
+was just like you get your Discord and then you get your course and and that
+was it. And and that was that like it was really nothing like this whole chat
+like now today we have like our own chat, we have our own forums, we have
+our own live streaming, right? And but it really just our business has always
+scaled from we have this totable addressable market that sales is
+aggressively trying to get go after like we're a salesdriven business. How do we
+actually make sure we get all those clients and provide value from those
+clients? Oh, they they want they want a chat. Oh, they want a course. Oh, they
+want Discord. Oh, now today they want financing. They want, you know, to sell
+a trading exchange. And so that's really how our business has always grown.
+>> Yeah, it's amazing. And then so I don't know how much you guys talk about like
+fundraising and all that but like what at what inflection point was that first
+big one because I think it's it's public you guys say like the founder like that.
+>> So we so the first ever bit of fundraising we ever did was we did a
+preede um so that was uh we went through a program called Zfellows. It's by Corey
+Levy. Um it was pretty low-key. We were one of the first ones to go through at
+the time but now it's you know starting to become somewhat of a a Y Combinator
+competitor. Um, and how that worked was you essentially get $10,000 and you get
+introduced to like the founder of Netflix, the founder of Tinder, um, you
+get like introduced to Founders Fund like Peter Teal and all these other
+businesses. And so it's like you get 10 grand, but you mainly get the
+connections. And we end up raising a series A. Um, maybe like two or so years
+ago, we we raised a series A. Um, and that was from the connections we got
+from Zfellows as well as a couple others. And that was I think like $200
+million valuation raised like 10 12 mil something like that. Um and then last
+July we ended up raising a series B that put us at a $800 million valuation a
+total fundraising of like I want to say 40 mil. Um and that was from it was from
+similar investors but like founder of Eventbrite like larger funds like
+Insight Partners, Signal Fire who did like Bubble as an example. Um, and then
+also just a bunch of like, you know, strategic people that are good for
+growth. >> Yeah, that's amazing. So, when you guys
+are going through these next one, what was your GMV at that point on the last
+race? >> Um, I want to say we're doing like 30
+mil a month. >> Got it. Okay.
+>> Yeah. Yeah. Yeah. >> Yeah.
+>> For 4x the more than 4x the business since then.
+>> Yeah. That's amazing. Okay. So, like let's talk now. So, you guys just made
+this big announcement, payment, payments, payments, payments. Uh, when
+we talked to Stephen on there, he was like, "Yeah, we're going payment
+direction." Uh, some of the other competitors go really heavy course
+focused. They go really like the hosting side of things. You guys are going the
+other direction and going very hard in financing and directs.
+So, your new offer is what the public the direct public one
+>> 2.7% >> credit card rates out of the box is 2.9.
+>> Yeah, that's right. >> That's amazing. So you guys are doing
+your own version of that, but like you wouldn't consider Stripe a competitor or
+you would >> I think we we totally would. So I think
+we we get it's interesting. We get I think a bit of a misconception around
+like it's like what verse school, right? And that's often times what people niche
+us into. And for us, like I've got 12 full-time sales reps and and we're
+hiring pretty heavily. And how how I would say our and so we're selling to a
+lot of different businesses. I would how I would say
+um our business is is we're a business model platform and so if you think about
+like the internet like you need you need payments you need to get you need to
+accept payments and you need to pay out payments and that's like if you can't do
+that you cannot you can't run a business right it's very unless you're a SAS but
+like it's very tough to to really support any business and so I would say
+for us like school as an example that's what we're always compared to that's
+just one competitor in one business model and that business model is paid
+groups, right? They're just one like they're really only servicing, you know,
+um the hosting of communities, uh community members, and they're they're
+sort of now teaching people how to get into like selling an online product,
+right? They're they're targeting passionate individuals that are
+beginning to get into like the online space and they're running aggressive
+paid ads to do that. and they're also inspiring existing info product and
+coaching owners and and course owners um how to essentially like you know host
+and and do upsells and so that's like one competitor and like for example in
+just paid groups alone you've got heartbeat chat circle standtore um
+you've got Teachable Kajjabi School um you can name like 50 of them right and
+that's just one sort of business but we also service agencies we're servicing
+physical products now we're moving into um for example more interesting things
+like launching trading exchanges. Um we're going into more like SAS now where
+it's like how does what replace Stripe for like billing and like how do how do
+we capture this wave of like lovable no code apps that you know are using Stripe
+right now but you know maybe want to try something else. Um and so I would say
+like our business is really like we've got payments and those payments need to
+be competitive to service all of those business models. And once that's good,
+now it's like we we have apps which are like chat, live streaming, forums, copy
+and paste, whatever. Um that's now once we have your payments, now we want to
+sell you that apps layer which is vertical SAS which we're moving into
+now. And then after that it's distribution. So like the hardest part
+of running a business is getting customers. How do we service that? And
+so how we split our business is like we have our co coaching and coursing like
+business line. We have our agency's business line. And how do we build like
+the best endto-end experience? Well, it starts with payments, right? So, that's
+that's kind of how I'd think about [ __ ] Less so,
+>> oh, it's an it's like a community platform. It's more of like how do you
+make cool [ __ ] on the on the internet and make a ton of money doing so?
+>> Yeah, that's super interesting. Do you guys feel like the first thing my brain
+goes to is like Clickfunnels versus like a go high level for example. Like
+Clickfunnels was the best ever at like what it was and go level is like the
+everything tool. It's like the everything you need. Then they have the
+insane distribution model of like the affiliates and like the users and the
+sub accounts and like all that stuff. But at some level it's like you can't be
+the best at everything. Uh and like funnels by far was at at the time at its
+at its zone of genius was like crushing and now like the wave has shifted into
+this. Um even what you said earlier like we peacemeal things like we'll take
+specific tools that do specific things and layer them together with other ones
+cuz I'm like oh that's the best at that. That's the best at that and you have to
+deal with that. But like you guys it feels like
+>> are doing it all almost which at some level there has to be a little bit of
+like >> you can't do everything the best or like
+you can't have whatever but >> you seem to be doing quite well at it
+and there's the errors and the and the blips but like
+>> so payments is definitely a core focus but then payments
+>> it's like SAS agency info coaching like all the different layers. It's it's
+>> interesting lean into that. I would say I would say like Clickfunnels like I
+love Todd and and Russell. I think they they
+really just comes down to like how you the internals of how your company works
+is what's successful. And so like I would say for them I I just don't think
+they have the talent um to be able to or the user feedback loop to be able to
+aggressively be the all-in-one platform. Like I and I think they they admit that
+themselves like they spread themselves a little too thin. And so now you see a
+retrenchment of like okay now we're going to go into funnels right and you
+saw that with Clickfunnels 1.0 where you know they didn't like I would say go
+high level did a really good job because Clickfunnels launched Clickfunnels 2.0
+they weren't migrating the existing 1.0 customers and it wasn't a product
+appealing to the 1.0 and then at the same time go high level said we can
+actually import your 1.0 funnels and we're going to give you all of these
+other CRM and everything else. So I would say I would say Clickfunnels
+really didn't have the user feedback loop and for on go high level's end I
+would say yes they're the everything app but like what's the quality associated
+with that right where they're re what their strategy love the guys but it's
+really just like getting like third world developers to quickly rip
+something that's trending as quickly as humanly possible and so how we think
+about our business is a little more like Uber and and Amazon where like What
+Amazon did was they said, "Okay, Ryan, you're you got us into books as a
+business. You've crushed getting us into books as like a segment. We now want you
+to go after Kindle." And we gave you really clear respons. They gave you
+really clear responsibility around you own Kindle end to end. And that's not as
+simple as payments. That means what does fulfillment look like? What does the
+notifications look like? What does it look like for new business to sign up?
+What does it look like for Warrior Babe level businesses to come onto the
+platform? And so what we're doing is we're now taking our internal business
+and we're saying okay how do we almost create general managers of coaching and
+SAS and and agencies and own the endto-end experience. And I would say we
+haven't done a great job so far. Like I would say like coaching we do an amazing
+job in payments for sure. we don't do very good job at owning the fulfillment
+of coaching or or or for SAS we're starting to do a good job in payment in
+in payments but we don't do such a great job at marketing that we have SAS
+products use our platform and so >> I would say it really just comes down
+for us like how do we internally make it so people are really incentivized to
+feel like they own like a segment really tightly and make sure that's successful
+right >> yeah so you guys do a fantastic job of
+acquiring talent and we always have the conversations And the top people I talk
+to are like, "Oh, yeah." And they'd be interested. Like, you know, I talked to
+them about maybe doing this or you already have them join your team in
+whatever capacity. So, the talent attraction of just joining a bunch of
+cracked out like moving towards a big mission is real is. So, that is what
+you're saying the approach is for this next thing is like you're going to have
+someone internal that's like all SAS for the
+>> for sure. >> The first the first time we ever talked
+it was like the onboarding the flow like getting them in and then it was like a
+scale division almost. It's like, yeah, it's great to get customers in and have
+them doing 10k or 100k a month, but like how do we then help the next part of the
+journey, which you just said like fulfillment, help them go from 100k to a
+million, right? >> For sure.
+>> Yeah. Right. Like for coaching, when I say like end to end, it's like, okay,
+it's not just about how do we do your payments, how we do your financing. It's
+okay. You're having a peacemail now a webinar tool and you're having to feed
+that in a HubSpot and you're now having to use Zapier and and Nadan and now
+you're having to do an email marketing tool and you're now having to run your
+paid ads and oh guess what your paid ads account just got shut down. Now you're
+having to run through an omnibus paid ads account. So it's like owning
+coaching is like not just as simple as payments. It's how do we do everything
+and provide that for for 90 not just the warrior babes that are pushing huge
+numbers but also the beginner too. And so I think like for us, we're in that
+stage right now where it's like how can we do all of that but also make it
+really simple and that's the hardest part.
+>> Yeah. What does the team look like there now? Like how big are you guys?
+>> We're 55 people. >> Okay. I would think it's almost bigger
+at this point like and you have you technically just all New York office or
+you guys were talking about multi or >> Yeah. So we have a San Fran office now.
+We're we're um just got and we're opening up. Um, I would say it it it
+we so we we had a stage there where we let go of 17 people. Um, cuz I think
+we're just like I think as a business we could easily like you know get a nice
+exit and be like uh you know the a co coaching platform and and do that. But I
+think for us we we kind of had an internal decision where it's like okay
+we see like no one's doing this right now. No one's trying to create like the
+make money app where you make money on the internet and it's like okay when I
+think making money online I think [ __ ] No one's really doing that. Like you see
+Meta for example where it's like their business is like a paid ad like
+advertising model. They're probably not going to help you make money doing an
+expertise that you like doing or or you know making your own business. You've
+got X which is kind of doing it. They're like we're rolling out creative
+subscriptions but they're not really doing a great job. And so we're like
+okay cool. we see a really cool opportunity here where um no there's no
+like there's no equivalent of like a Shopify for actually like internet
+businesses and so we we made a decision to let go of 17 people and we were like
+okay how are we going to do this we're going to do it with really dense
+highquality talent and we're going to give them really large responsibility
+and so for me for example like I don't really interact with you know Cam and
+Steel all that much it's more so like here are your targets here's what you
+need to do go make it happen and So for us like coming back to hiring
+entrepreneurs like we get we we optimize for that because what how it actually
+works operationally inside our company is that everyone is kind of their
+entrepreneurs. You get ownership and it's kind of a figure it out mentality.
+So >> that's it ties back to like how we
+structure it. It's Yeah, I mean it's amazing though, right? Like we are
+getting into our first layer of like multi-layer leadership and that's a
+beast and like owner and comp plans that tie to what KPI but then it's affected
+by ex so and so's and you guys get to like
+>> it's like a hack and also not a hack, right? Where you have like equity and
+you have this big massive valuation moving towards this number and like this
+big vision that everyone's like let's just all go here. Ours is a little more
+transactional a little bit more, right? especially when the K like your next
+paycheck, not your what is my equity number worth in the future.
+>> Um, so yeah, that's super interesting. So, where are you guys hiring into right
+now? Because I see you guys make these hiring posts and it's and what you just
+said like sales, but >> yeah.
+>> Is that the main? >> Yeah, I it's mainly go to market like we
+have three payment engineers total and like they've built everything out. So,
+so that that's fine. And you know, if there's a god tier payments person,
+we'll bring on. We've got I would say most of the team's engineering and I
+think they're really competent. We're still looking for competent devs, but
+now it's like okay, we've got product market fit. Um, now it's we're we're
+like we're slowly transitioning with this announcement which has been good.
+It's kind of like positioned our business, not just like the coaching
+kind of platform for payments for that. Now it's like payments for online
+businesses. Um, and now we're we're like, okay, how do we segment our
+business to what we want to service and hire people aggressively against that?
+So mainly sales, mainly account management. Um, but I would say if
+anyone's really talented and and wants to do cool [ __ ] we we really take
+anyone on. >> Yeah. Let's jam info coaching specific
+because you know everybody that is like a superpower you guys have now where is
+like you see behind the door and like we don't say anyone's direct names and and
+do but like >> even just talking to you guys it then
+opened my mind in these directions and I was looking at other payment tools and
+like you know in comparison to you guy and just all over the board but I came
+upon >> back quiet people that are doing two
+three 400 a year in info coaching names you know and then these and then the
+ones that we kind of all talk about and know more or like personally know I've
+found are the top tier guys are 10 15 million a month right now right and like
+some of them are scaling aggressively some of them have kind of been humming
+at that but like where do you see the landscape of these things like how do
+what are the main funnel types like let's go deep
+types are they all like high ticket a lot of low high
+>> sure I you're really asking about segmentation so it's what how I
+structure my team like is you've how info coaching essentially has worked is
+you've but really like highlevel people in different demographics um that have
+established everything. So, as an example, Myron Brunson, right? Uh no,
+Myron Golden, right? He he is like OG. If you ask any like African-American
+like info seller, they've probably heard of Myron Golden being killing a spade a
+spade. You've also got Russell Brunson. You've got Jason Fladdlin. You've got um
+Jeremy Haynes now popping up. And so how we essentially segment our business is
+like and how we segment our sales is essentially like who started it all and
+then work down from that tree, right? And so today we've got like business uh
+like sales reps really deep into like the mastermind crowd like your Lewis
+House, your Brendan Bersard, your um you know Oliver Nino who we recently
+connected with. Um, you've got the more Gexa Nick Fisher crowd where you've got
+performance golf, Pace Morby. You've got more your, you know, your, um, you know,
+Steve Harwood like Dan Flashman. Um, you've got with Dan Flashman, Garrett
+White, Chris Cone. So, >> it deep. It runs deep. So it's like so
+when so for example it's really interesting because whenever we have
+like new sales reps join you know our company it's like ah man I saw bre
+scales and TGR you know crushing it and we're like hang on dude those are
+actually the smaller fry in the whole equation right um so I I would I would
+say like for for us um we've had the opportunity to scrape like pretty much
+all like coaching businesses that are out there and and and we've We've been
+able to like do a pretty aggressive like figure out who's crushing it organic.
+Like for example, I think Chris Johnson right now is doing like 2 mil a month
+just organic on Twitter. Like most people don't know that if they're
+running paid. They're like, "Oh my god, that's crazy, right?" Um, so we we touch
+multiple sides, but I'm happy to drill into anything specific, but we know
+what's going on. >> So I was just at Jeremy's event, so
+let's talk about the the current people. So, I talk about this a lot on here, but
+like right now there's >> three or four that are like the info
+coaching like our side of the info coaching. You have like OGs who still
+have their groups. Nick Singal still has his like mastermind and group and his
+elite, right? But like >> the
+>> new age info coaching, it's like Cole Gordon,
+>> I Jeremy, um Nick is >> Yeah. And and Ravi has like a version of
+it. I'm saying like who have active masterminds. So people go to those
+events as like the core ones and I just went to Jeremy's. I went to Iman's one
+went to Jeremy's. I'm going to Kohl's next month. Daniel.
+>> So like those guys hang out and it's so interesting to me that each one you
+could be in all of them and like learn different things. Like Iman's is like
+>> disgustingly profitable info business revenue generating events organic like
+lean team worldwide. Jeremy's like [ __ ] hammer it just like topline and
+just like spend into it and it works fantastic for that. Kohl's is like
+tactical and sales. So I don't know. It's just interesting to me that there's
+all these different like frames and faces and they all run these different
+models. Low ticket to high ticket, high ticket direct.
+>> Yeah. That >> they all land back in the same bucket,
+>> you know? >> Yeah. I mean, it's like anyone doing
+numbers is really either running a VSSL funnel with like a billion sales reps or
+or like a webinar funnel. And then some people are running a challenge funnel,
+but that's either like a very Myron Golden tactic, right? or or it's like
+you're like a Jason flat like you somehow have have gone into like Iman
+level like challenges or like herozi like there there's like a couple pe like
+really the main funnels we see is like you have like
+>> liquidation SLO to like a VSSL or like a quizunnel or it's like a webinar funnel
+and those are like the main ones pushing numbers. It's either like VSSL or
+honestly webinar funnel. Um, >> yeah,
+>> it's it's funny cuz like the names you said are all US, which is which is which
+is the interesting part like >> which is my frame, my my own frame,
+right? It's not the market, it's me. >> Yeah. Like like I'll send you this is an
+interesting one. Look up 99.xyz. They're probably the biggest like growth
+operators for Europe and they run like the biggest offers for like Europe like
+the European market. And I think like what's really woken me up to is like
+believe it or not the info coaching space for South America is actually
+bigger than the US. It it just so it just so happens that all of the
+transactions in South America are buy now pay later or split payments, right?
+That's how all their transactions occur. But um that's like the bigger that's
+actually a bigger market for info products than actually the US is, right?
+And so when you say like Jeremy Haynes, Daniel Fosio, all those names, that's
+like the US pocket of things where you have um like Nicholas Pere, he crushes
+consulting club. That's like actually more like EU based, right? So there's a
+whole different side of internationally. >> Yeah. Even Iman's thing, it's like I I'm
+in that group because that was the first thing I paid for. And
+>> yeah, >> 90% I feel like is non US. like he he
+pulls like a more worldwide audience. Um and they talk all the time about like
+low ticket that is cranking in like the Brazil market and like these that cook.
+So I mean the quizunnel thing is very interesting
+>> that you said inside there. I'm hearing that and seeing that all over like it's
+always the what's working now. Jeremy and I talked about this on ours but it
+was like listen everything is working now. Just to be like very blunt here.
+Like you can go down any lane, hammer it, optimize it, come up with an angle,
+do something. And the funnel does not matter. Like what's easier to start, one
+thing. What's easier to scale, different like there's Yes.
+>> Yeah. >> But
+>> the Gavin low ticket thing is super interesting right now. The webinars,
+they're coming back and then everything Hormosi just did just like, you know,
+the amount of people that are texting. They're like, how do we beat that? And
+it's like [ __ ] you know. >> Yeah. You know what my favorite funnel
+is? Like my there's um there's a I won't say who. They're actually our biggest
+creator right now and they're processing tons significantly more than Warrior
+Babe. I I'll say that bluntly. Even your red
+>> easy. >> And they um what they do is they go to
+supplement companies and they like small like imagine like you're an e-commerce
+store, $20 creatine. They buy every single email from that creatine store
+and they do it with hundreds of hundreds of hundreds of e-commerce stores and
+they buy the lists and then what they do is they they run no paid ads. There's no
+organic. All they do is they email those lists aggressively saying, "Oh, you just
+bought creatine or ashwagandha. You should book an implementation call with
+us." >> Right? And and that's all they do. And
+that implementation call on the back end of it, there's hundreds and hundreds of
+sales reps. Oh yes. And that's all they run. And and they're and it's just like
+you see that model and you're just like like even for us, right? We're doing
+like I want to say like 130 to 150 mil a month in just like coaching processing.
+And it's just like you you see that model and you're like oh my god we're
+missing a whole market to that, right? And so it's like for me it's like it
+doesn't really matter what you're doing. You're totally right. It's more like are
+you crunching numbers? Are you seeking feedback constantly? And are are you
+surrounding yourself with more circles? Like a lot of like for us our favors are
+like, "Oh, you're in Jeremy Haynes's mastermind right now." Amazing. Have you
+thought about also going to the Atlas mastermind that Russell Brunson runs
+that's 250K a year to get a different perspective? Right. So, I would say
+that's what it comes down to. >> Yeah. It's crazy when you get to like
+certain XYZ size, whether it's half a million a month, million a month,
+whatever, and you go to these things and they're like 30 grand or 250 grand, like
+they all are that much at this point. >> Yeah. But you go to these and you pick
+up like literally one thing that you can use and it's like, "Oh, I just got a 5%
+lift on this or like my show rates went from 50% to 70%." It's like that's
+millions of dollars. >> Like in fact, that's why those are so
+fun now. Like because like you can just pick up I was on my way out of the door
+at Jeremy Haynes's thing and some guy was like, "Oh, like like ask me xyz
+thing." And then he goes, "Wait, have you done this?" and he shows me
+something on his thank you page and I was like
+>> I was on my way out the door and I was like screenshot take a picture of his
+phone like send it to the team implement this right now like this is crazy
+behavior and there's just so many little tweaks and hacks but
+>> it's so interesting the other guys I see that really crush because if you want to
+start talking like 200 300s and you're going to know better than I do but like
+the guys I know almost all of them have some sort of direct to cart
+functionality in the front like almost none of them are going direct quiz or
+going direct via to sell like uh I'm sorry direct to a call because of you
+know the volume and then the economics that you get with having massive buyer
+base and over time they ascend and they direct. So that's like a very
+interesting thing that we're starting to >> It's not It's not coaching, dude. It's
+just paid ads, right? We're not in the coaching industry. We're in the paid ads
+industry, right? Unless you're unless you're running like some crazy operation
+like the one I just mentioned. It's really just like do you understand data?
+Are you able to crunch the numbers? Are you do you understand the platforms and
+their algorithms? Or do you understand hiring and can hire someone to do that?
+And are like for you for example, I like your day is just crunching numbers,
+right? Like that's why it all that's why it all works, right? You're crunching,
+you know, uh rorowaz, your conversion rate, you know, you're crunching show
+rate, all of these different numbers and that's
+>> all it is, right? And so for us, like when we when we think about like what
+what actually I really enjoy really going in the space is I like talking to
+people like you cuz it's like it doesn't really matter if you're doing like a
+women's weight loss offer or not like cuz you understand how it works. Like
+you could do like like I love what Jordan Lee's doing for example with AI
+acquisition. They went from the growth partner and he knows all the same paid
+ads and CSM models and you know it's all the same you know architecture. He's
+just flipped the scritch and said it's now an AI arbitrage agency and now
+they're doing better than ever, right? And so that's what I like and that's why
+I don't think this industry will ever die because let's say if coaching or
+courses, you know, no longer becomes the fad and it becomes software. Well, cool.
+You just crunch the numbers and run paid ads aggressively against software, which
+people are already doing, right? So it that's why we like tying back to what
+that's where we position ourselves as a business model platform because it
+doesn't really matter if it's courses or or agencies. It's all the same formula.
+>> Yeah. Yeah, I'll be interested to see. I know you guys already you said it in
+there, but the physical product thing will be super interesting because the
+more and more I see that's a big conversation that a lot of info coaching
+people seem to be having that's like where do I offset the AI revolution part
+and it's like okay cool right now they ride the wave and they monetize it by
+throwing AI your name or doing whatever but when the true functionality of AI
+comes like true true and all the personalization exists and like that's
+kind of the more or less benefit to having like a direct coach or getting
+like the group coaching or onetoone access is the personalization of the
+content based on yours and all that. So like once we get to a point where that's
+kind of >> democratized more or less like yeah
+there's going to be another play is what people keep saying is there's going to
+be this other play for physical products. There's going to be this other
+play for stuff like that and it would be so cool to see that
+allin-one inside inside [ __ ] where it's like
+>> sure >> you can do because right now it's
+obviously it's like Shopify lives for that. you guys are day by day becoming
+more and more and more like the Shopify for like you said online business or
+info coaching right now and >> yeah I think um
+I think my honest opinion is we're probably yes we'll probably like
+physical products yeah Nick Fischer was talking about events I I think like
+we're probably going to move more towards like more bespoke experiences
+where it's like for example for us it's like Okay, you as Ryan could, for
+example, um let's say you're Pace Morby as an example, keeping with the Nick
+Fischer example. Pace Morby could, you know, do this low ticket, then to high
+ticket, then to he obviously has a real estate fund where he makes a ton of
+money on. I think what we'll probably start to see is like, okay, skip the low
+ticket and high ticket. I now have a community. AI lets me launch my own fund
+instantly, right? And so I think or like for example in trading, right? what you
+see is like the TGR model where it's like you sell high ticket like you know
+trading coaching you have low ticket and then it's like now you're in my prop
+firm and and and and a lot of these traders have make a ton of money on
+their prop firms right and so for us I think it'll more so become like AI will
+make it easier to spin up these more unique experiences where it's like okay
+instead of going the whole route of like launching you know my info product and
+coaching I'm just going to launch a trading exchange and I'm just going to
+make money off all the fees and we already see that sports betting where
+people Yeah. >> Yeah. That's I mean that's the big
+picture in general. So like we've talked offline, I'm not going to talk about it
+here, but like the bigger stuff we're doing that's like in that direction and
+like info coaching is a mean and it's uh it's a liquidation of your spend. But
+the big picture stuff like a prop firm or I always use the example and we can
+workshop it here of uh insurance. I use it all the time. I've seen two big
+people I know direct do it and like four or five I know that are like
+>> medium which is still large. Uh and of them do it because they can do info
+coaching. They can run them. They they have the acquisition where they can use
+paid. They use info coaching for like >> consumption, warmth, liquidation, all
+the things. And then where they make insane amounts of money is insurance, uh
+like actual being like licensed in that way. People then do it like the next
+layer up where like they're teaching people who are already in insurance for
+their role in their job. They come into there then they're inside their firm and
+then they get like overrides. Like you start to see more and more people doing
+that. Like even uh >> nuts
+>> will Rivera now is like you know he's going full like Medicare and it's like
+he's taking the business model and then he's like applying it there or there's
+other guys that do it that do uh Spencer or something.
+>> Yeah. They do layered things inside like downlines and what like that's where
+they're making big money to my understanding
+>> right and so I don't know where [ __ ] can go to like monetize that as or be part
+of that picture as well >> but that would be
+>> I think insurance is tough. Insurance is harder.
+>> Insurance is a little harder. I'll give you an example right now in sports
+betting. Like it was very popular for people to sell picks. Like you join my
+$20 a month community and I'll sell you a sports bet. Um and now what we're
+seeing them move towards is actually a funded sports betting model which is
+like >> morality morality aside, but it's like
+you're essentially like prove that you can consistently bet and we'll fund you
+like a prop firm. And then on the back end what they do is they'll sell data,
+right? As as some of some of them will do. And so like we're now we're actively
+seeing businesses go from I want to sell a paid Discord to I want to now sell a a
+equivalent of a prop firm in sports betting. And so for us, we're like,
+okay, we're going to build the app associated with white labeling, building
+your own challenges. Or for example, you'll probably see in dating where
+instead of like an influencer selling a like, you're already seeing it, but like
+instead of an influencer selling like dating, you know, courses and whatnot,
+you'll probably say, "Hey, here's my curated dating app for young
+professionals with, you know, a really big shiny ClickFunnels plaque in the
+background." like like they'll probably sell that more curated as the product
+they're selling. And so I think what you'll before you see like the we're all
+going to do events and we're we're going to do like like physical products is the
+only way at that point we're probably all checked out, right? Like we're it's
+probably over at that stage and we're all like I'm a plumber and you're
+working on a like an oil rig. Um, but I would say before it comes to that, it's
+probably going to become more like boutique experiences that are hyper that
+you use Meta and their distribution engine to actually get consumers to buy.
+Where instead of Warrior Babe being like, you know, a coaching, now it's
+like, okay, upload like now you can make your own, you know, um, uh, biological
+data platform where it's like you you get all their metrics and you get all
+all of their and you, you know, maybe you don't even have a coach for filling
+it. you just have someone that walks you through like, hey, your blood pressure
+is X, you should do Y. And it's like you're a novel SAS platform. You'll
+probably move more towards that. >> I agree. I agree. That's definitely the
+next step. And like even that's the direction we're going. It's like
+figuring out the other monetization plays that like go against the wave that
+go in the direction cuz the last thing we want to do is do something that's
+like AI on the back. And a lot of people I see so many people already doing it
+where they're using AI in like their highest tier thing. And
+>> I just don't know how long that lasts. Excuse me. I don't know how that lasts
+because it's like the whole point even what you're saying is like the opposite
+direction of that. It's like bespoke and unique and like this other do this
+versus hey it's me but it's just me AI and it's like I grand for this and
+instead of talking to the person I'm talking to the version of AI of them and
+like there's value to is it worth 50 grand when someone else is selling it
+for five grand or $5 a month for that. So yeah, I don't know. The AI thing is
+interesting, but >> I think it's more sass. Like for
+example, like before this whole AI boom happened, you had like Mr. Beast
+launched View Stats. And like that was really interesting cuz that's like Mr.
+Beast, I'm the number one YouTuber. I am selling you an app around YouTube
+analytics. And I think what you'll probably see is like a faster feedback
+loop around that, similar to what like the Calai guys are doing where it's
+like, okay, I'm launching Cali. It took me a second to build this. I'm gonna ram
+paid ads aggressively against and UGC aggressively against my a AI product.
+I'm gonna sell that. I think what you'll see is probably like more like coaching
+and info people be like, "Okay, wow, I don't have to sell a course. I can now
+quickly spin up like a real estate tool or a fund or a different model to
+differentiate themselves." It's kind of like like I think Blake Roa, shout out
+Blake, did a really great job where he was like in order to differentiate his
+info product, he was like, "Okay, um instead of just selling like Airbnb
+coaching, I'm going to sell you Airbnb coaching with a SAS." I think what
+you'll see is a faster like we're going to sell SAS products like on the back
+end of or maybe the entire product instead of a course. And I think AI will
+expedite that less so than it's like ah like get into Amazon FBA and you get my
+AI like it's that's not as cool, right? And I don't think that will work as
+well. >> So within [ __ ] you're saying you could
+do that. So you would be able to sell the info and then you would just create
+an app inside there that's private or unique to your group.
+>> Yeah, we're already starting to do that, right? So like we did a hackathon
+yesterday. We partnered with actually like a crypto uh company. was like if
+you build the best app with the most usage, you get $500,000. And we had like
+70 like of really smart like SAS developers come in and start building W
+apps. And so some of them built like um an email marketing tool, an AI Shopified
+Shopify building tool, a GBT agent where you could white label it to make it
+warrior babe agent or and like a bunch of other unique exper like some of them
+even built like loans where it's like you can take your [ __ ] M data and then
+get a credit line against that, right? um and and they'll fund it with like a
+third party provider. So we're that's where like we're now moving towards
+where it's like okay now that we have payments how do we make it so like if
+you as Ryan clog warrior babe might not work as well because you you have a
+white labelled solution and you don't care as much about network effects
+because you're at a certain scale but for example if someone wants to be the
+next warrior babe good luck but they could instantly add all of like these
+[ __ ] apps to build that trainerized unique experience you have maybe with a
+little bit more without having a developer and doing it in 5 minutes
+That's kind of the goal. >> Yeah, that's interesting. So for the
+That's so interesting. So you guys were talking about this the payments just to
+like hold the thread there for a second. I saw you talking about kind of like
+lines of credit like invoicing. You guys were talking about what else is included
+in payments that like this first iteration was hey go to market public
+anyone now and we can beat Stripe fees and we can do like the general
+transaction portion. We can do rebuilling. We can do you know
+whatever's there. Plus, again, I it is a superpower and it kind of exists within
+Stripe with uh uh CLA, affirm, Afterpay, I think are the three core ones,
+>> but like you can like toggle them on or get approved. You guys having that with
+the two you have right now for uh CLA and Split mainly.
+>> Yeah, >> it's huge. Like just me telling you like
+from a standpoint of someone who like runs these things and like the sales
+reps having to use forms and being able to go to one dedicated form and like
+have these options in one UI and then now even embed them is like a big step
+in the right direction just in itself. >> Sure.
+>> And then like beyond that what you said there's invoicing there's credits
+there's what? >> Yeah. Yeah. I don't know. Like I can't
+speak on specifically what they're doing, but like my personal my personal
+take is like why wouldn't you have your W dashboard and do your QuickBooks or
+why wouldn't you also launch your webinar in your W dashboard or why
+wouldn't you go crazy if you >> Yeah. Right. Like why why wouldn't you
+um make a bunch of Warrior Babe branded VCC's that you give all of your sales
+reps, right? So, I think it's more more like like the payments game is
+complicated and I and I and I and I actually give Stripe a lot of like kudos
+and and anyone trying to go into payments a lot of a lot of like you know
+my admiration because it's more complicated than you think under the
+hood. Um >> yeah, that's kind of my question though
+is like why at some point like where do you draw the line
+>> on like what you guys build versus someone who's like the best at it ever?
+>> Yeah. >> And then like you just integrate.
+>> Yeah. Yeah, I would say there there's an interesting like thing called bundling
+and unbundling of software. And so it's either you unbundle something if you're
+building a software company or you bundle something. And what I mean by
+that is um unbundling would be like the chat GPT API. That's like you get the
+API, you can that's what they sell. They sell an API for it or or um you know uh
+Broadcom or Cisco. That's like unbundling. They're literally selling
+you the hardware to run your business. And then there's bundling where like
+Stripe is actually a bundle of Visa, Mastercard, MX, and their relationship
+with Cloner, Afterpay, Affirm. That's like a bundled product. And then they're
+using Fifth Third Bank as like their treasury provider. It's not actually
+Stripe. There's a bank underwriting it. And and they're actually Stripe is
+actually built almost entirely on Cross River Bank, which is which is a neo bank
+that actually powers everything under the hood, right? And that's a bundle.
+And so for us like where our value is is like yeah we're not going to make our
+own Visa Mastercard MX network. We actually route transactions through
+Stripe under the hood as one of our processors. We're not going to be
+Stripe. But where we think our unique value is is if you're trying to start an
+online internet business there there you're there's like no one's nailed that
+aspect of I can simply go to one platform and I can make money online and
+I get cool new ideas and I can go to market really quickly. No one's really
+done that. And so our equivalent of bundling is like, okay, maybe you do
+want invoicing, maybe you do want VCC's, maybe you do want treasury products,
+maybe you do want to launch a webinar. And so that's kind of what we're trying
+to move towards is like specifically for online businesses and, you know, maybe
+even soon physical businesses. How do we bundle the most useful tools together so
+you don't have to think about anything else?
+>> Yeah, >> it's super interesting. That's a super
+interesting way because it's like >> it goes back and forth on like where you
+draw the line, but >> when you like financing for example, sorry, my
+brain is like spinning. But so like for example, I was talking to someone the
+other day and they're like, "Oh yeah, like at certain scale like you create
+your own financing arm and like you have your whole own financing entity and like
+you are like the bank who does the financing, you finance yourself and like
+doing all this stuff and I was like I don't want to do that. Like I don't want
+to do that. Like we're I'm not in that business." And so like we stopped it
+there, but like you guys have the ability to do that. Like you could
+create what you could be one of your financing partners for example and be
+one of those instead of leveraging their whole setup integration. You don't do
+that yourself right now. >> Sure.
+>> But >> yeah, I don't know the the marketplace
+the it's just everywhere. I don't know how you guys focus or like
+>> it's like >> focus is so tough, right? Like for me
+even starting a week I literally only have one thing I'm focusing on that's
+hiring. like that's actually the only thing I'm focusing on. I have an
+existing team, right? So, I think it's like that that is the aim of the game,
+right? Like it's just literally just like focus. That's like the hardest
+part. I think the the thing that I think we do really well and and I think where
+Steven crushes and and Cameron and Steve do an amazing job is they uh understand
+the horistics that actually matter, right? They understand like no ma like
+okay yes we could add your in the invo we could add invoicing right now if we
+wanted to it doesn't take us long to ship we get that live in 30 minutes it's
+not that's not that hard what actually is the harder part is how do we make
+invoicing happen in our API which doesn't jumble our entire API and make
+the building blocks that we we use internally super convoluted and
+confusing and create a bunch of tech debt that's like and for for for for
+example for you it's like okay yeah we could roll out our financing product
+easily raise a bunch of debt financing. We could create a syndication like no no
+issues at all. But like that adds like how do we like how do you make in our
+API like what a financing track transaction is? How do you define what
+debt is in our API? How do you manage that at scale? Right? So it's more like
+the focus and and and it's is more like what do you remove not necessarily what
+you add. And like I think the reason why we can do so much is we're not actually
+building the apps. We're actually building the architecture for the apps
+and then we're then we've got one person marketing aggressively focusing on we
+need people building WO apps. Right? So I would say it does sound like we're
+doing a lot but what we're really doing is we're just saying like we're building
+the core infrastructure making that really good and letting third parties
+build on top of us. Like we don't we don't actually have our own financing
+solutions. We've just done really smart uh deals with like Split for example
+where they're upkeeping all of it. They're they're for example responsible
+and all we're doing is just bundling you know to make it more accessible to more
+people. >> Yeah. No 100%. So you said it on the
+last one but like people coming there getting their idea doing that like how
+much do you guys see comes from because you have like a whole network effect
+system going on with like the discovery feed and like I even get trapped in
+there sometimes. I'll be like I'll log in something in the dashboard and I'll
+like click on another tab and all of a sudden I'm like oh someone's selling how
+to do this or like how to do this thing and I'm like that's one like weekend
+adventure to learn how to do that. So like you guys obviously have all the
+data and tracking and different people get affiliated from that and like crazy
+[ __ ] But how much do you see that people do that
+>> like they jump from or that like they use the discover feed for example and
+that people are actually like that's a source of traffic for their business
+>> or I would say like 5 to 10% of our our volume comes from discover.
+>> That's a lot. >> I would say I would say I would I would
+say like in terms of I we've got a long way to go. Like I
+think my ideal like now that we're getting clear on segments like I would
+love to have like a coaching segment of the marketplace and it's like you can
+like the value for new you now is like you probably don't care that much about
+discover because you were on a high ticket product right but if I listed
+Warrior Babe and got you email addresses and that was a really efficient way to
+get you emails and people opting in that's probably a more valuable
+discover. And so I would say the discover is like okay. It's a little bit
+all over the place. Like we're kind of working on it. We're AB testing it. It's
+interesting. Um but I I would say we're very soon going to start moving towards
+like okay how do we do like how do we make discovering valuable to our
+different segments, right? Um so useful but not quite yet. Yeah, like Udemi or
+whatever, like log in there and it's like you type in like investment banking
+and like it's like there's 5,000 courses and you just go by reviews and like you
+buy one for 29 bucks and like I all the time like I do that.
+>> Yeah. Yeah. It's sick. >> Yeah. Like some version of that and then
+>> the affiliate thing is super interesting. um obviously like a growth
+tool like inside just being able to toggle on affiliate and disco like for
+discover but I'm wonder like >> cuz
+my brain just spins every time I think about like how many different functions
+and sections are inside there but see >> cuz affiliates feeds into Yeah, exactly.
+Like feeds into discover feeds into like each community. But the other thing that
+like Clickfunnels right now is doing or there used to be a company and I'm
+blanking I think it was like striker strike point or something.
+>> Yeah. the super cool thing with like lead funnels and they sold it as like a
+software kind of where you opted in for someone's then you could opt into the
+other list and then like all the other big guys took that like right after and
+like the >> you know all the the journaling or
+whatever platforms you call those the substacks and stuff they have that it's
+like you're done and then you can just like quick check box
+>> beehive beef hive does it like >> they have that low ticket products at
+one point that I saw and then I I just heard that click funnels is doing a
+version of that where you can like use someone else on the platform prelab.
+>> Yeah. So, they're going to be like taking that and allowing you to use
+someone else's product for your Otto or for your other thing. And like in my
+mind, just like directly fits with your guys' model where it's like if I get
+this crypto thing, then I also want this either app or this XYZ and like
+>> Yeah, it's it's like it's um I mean I hope everyone's going to want to get
+inspired and buy buys products. I think um the the only the only the tough part
+is like how do you get the businesses to list on there and then like how do you
+get them to find value in it and it's like it's like the end to end like I
+think like the the the tough part for us is like is like okay yes we could we
+could add like confetti to our checkout for example or invoicing but what is the
+end toend flow look like of like an agency using invoicing but also running
+their business so it's it's it's can be tough because it's like you can hyper
+obsess and add all these different things, but if you don't look at it as a
+whole organism, then it you kind of miss and it becomes messy later. And I think
+we've made a lot of mistakes doing that a lot of times.
+>> That's fair. >> Yeah.
+>> All right, we're coming to an end here soonish. You got you got any final final
+bullets, final amazingness of what is to come for [ __ ]
+Bum bum. >> We used billion on the last one. So,
+>> hey, >> we used a hundred billion as what we as
+what the target was on the last on the last recording with Stephen and Cam.
+>> Yeah. Gez, that that's what keeps me up at night. Like, he's got to add that 100
+billion, right? Um >> I think Yeah, maybe. Maybe. Um, look,
+man, I think for for us, like we just want to build dope product for for cool
+people on the internet, right? And so I think like I could I could say like we
+obviously want to make a [ __ ] ton of money, right? I think that would be
+awesome. But um I think more so like for us like hopefully we keep talking to
+really cool people and and hopefully we have more conversations to anyone
+listening to this and you know whatever you want to do on the internet I hope we
+can build for that and and you find value in it. Like as long as we're doing
+that I think I think we'll do you know great things.
+>> Well shill your thing. So what so sales reps can come in. Are they New York
+specific based? Is it going to be remote? It's excellent.
+>> It's all new. It's all New York. Um, you have to like, funnily enough, I always
+like to say this whenever someone says, "Oh, can't I be remote?" Oh, like Zoom
+is a fully in person company, dude. Come on now. Um, so it's fully in person. Um,
+130k base. You get a percentage of the GM the gross profit you close. Top reps
+make about a million a year. A mill to 1.2 per year. You get equity um at our
+previous valuation. million. They're making a million bucks cash flow like or
+in equity. >> A million dollars like in cash plus
+equity. >> Wow.
+>> Yeah. Pre pre-tax. Um about like the highest is like 1.2 mil in a in a year.
+Um yeah. I mean if you're if you're running
+it our best hires being growth operators or agency owners that are making like 10
+to 100K per month, they're like, "Oh [ __ ] like I actually want to do cool
+things." And and um we normally hire those. So if anyone's listening that
+does that like you can still run your agency as long as it's not taking up
+100% of your time. >> Yeah, that's amazing. And then they're
+going to be responsible for going after a segment or their you know that. Okay.
+Very cool. >> I what we do right now is we do like a
+7-day we do two interviews 7-day in person trial and then we get like get
+like existing sales reps as pods with the trial hire and then we pin them
+against each other for like seven days. So, um, if you if you want to do cool
+things and be your own entrepreneur, it's kind of an interesting way to do it
+in a company. >> Yeah, I love it. All right. Well, cool.
+I'll put your X below this, but you're >> Gro
+is. All right. Cool. You're amazing. We can maybe talk about our our stuff
+public one day soon, but until we leave it.
+>> Appreciate you, dude. >> Appreciate you. Talk soon. Yeah.
