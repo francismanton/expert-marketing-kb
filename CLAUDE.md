@@ -19,6 +19,7 @@ All KB files are in `knowledge-bases/`. Read the relevant file(s) when answering
 | Russell Brunson | `RUSSELL_BRUNSON_KB.md` | Funnel architecture, value ladders, offer design, direct response | 7/10 |
 | Daniel Fazio | `DANIEL_FAZIO_KB.md` | AI-assisted agencies, cold email, Dream 100, deliverable stacking, pricing, agency scaling | 8.5/10 |
 | Ryan Clogg | `RYAN_CLOGG_KB.md` | Low-ticket ascension funnels, LTV/CAC math, offer stacking, 110-person remote team ops, B2C info/coaching scaling | 8.5/10 |
+| Nate Herk | `ai-automations/NATE_HERK_KB.md` | AI automation (n8n, Claude Code, RAG, voice agents), WAT framework, selling AI services, pricing, client acquisition, project delivery | 9/10 |
 
 ## How to Use This KB
 
@@ -57,10 +58,16 @@ When given a client situation, problem, or question:
 | Low-ticket / self-liquidating offers | Clogg (SLO ascension, $27–$37 front-end to $7,200/yr) | Haynes (low-to-high funnel type) → Brunson (Value Ladder) |
 | CRM architecture (B2C) | Clogg (HubSpot contacts + deals + Zapier + Cappy) | Ravi (CRM for B2B) |
 | Strategic thinking | Ovens (systems, flywheels, moats) | Clogg (business stacking vs. horizontal diversification) → Hormozi (client-financed acquisition) → Fazio (spearhead model) |
-| AI systems in marketing | Fazio (AI-assisted agency model) | lamxnt |
-| AI-assisted agencies | Fazio (core thesis, 4 FCTOs) | — |
+| AI systems in marketing | Fazio (AI-assisted agency model) | lamxnt → Herk (n8n workflows for marketing) |
+| AI-assisted agencies | Fazio (core thesis, 4 FCTOs) | Herk (selling AI automation services, freelancer→consultant→agency path) |
 | Niche selection | Fazio ($15K LTV rule, AI niche research) | Hormozi (market selection) → Ovens (problem-first thinking) |
-| Agency business model | Fazio (AI AAA, Type 1 vs Type 2) | Ravi (scaling ops) → Ovens (consulting frameworks) |
+| Agency business model | Fazio (AI AAA, Type 1 vs Type 2) | Ravi (scaling ops) → Ovens (consulting frameworks) → Herk (GROW framework, AI partner model) |
+| AI automation building | Herk (WAT framework, n8n, Claude Code, RAG, voice agents) | — |
+| Selling AI services | Herk (BUILD/SCAN/GROW/SHARE, 4-step sales, ROI formula) | Fazio (selling AI-assisted services) |
+| AI pricing strategy | Herk (ROI formula, tiered packaging, anchoring) | Hormozi (Value Equation) → Fazio (authority pricing) |
+| AI project delivery | Herk (QA cycles, handover docs, maintenance retainers) | — |
+| Voice agents | Herk (Vapi, ElevenLabs, 3-tier complexity) | — |
+| RAG systems | Herk (chunking, metadata, reranking, Pinecone vs Gemini) | — |
 
 ## Source Data
 
@@ -78,7 +85,10 @@ Raw transcripts are in `source-data/[expert-name]/` — reference these when the
 
 ## Adding a New Expert
 
-1. Run the scraper skill workflow
+1. Run the scraper skill workflow (handles steps 1-6 automatically)
 2. Save the KB file to `knowledge-bases/[FIRSTNAME_LASTNAME]_KB.md`
 3. Save raw transcripts to `source-data/[firstname-lastname]/`
-4. Add a row to the KB table and cross-reference guide above
+4. **Auto-updated by the skill (Step 7):**
+   - KB table and cross-reference guide in this file
+   - Quick reference table in `~/.claude/CLAUDE.md` (user-level)
+   - Completed experts table in the scraper skill itself
